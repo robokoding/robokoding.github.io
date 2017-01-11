@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Products"
+    url: /products/
   - title: "About"
     url: /about/
   - title: "Contact"

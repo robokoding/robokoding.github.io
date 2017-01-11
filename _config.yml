@@ -116,6 +116,7 @@ include:
   - _posts
   - _pages
   - _about
+  - _products
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -239,6 +240,9 @@ collections:
   about:
     output: true
     permalink: /:collection/:path/
+  products:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -254,6 +258,14 @@ defaults:
       type: pages
     values:
       layout: archive
+  # _products
+  - scope:
+      path: ""
+      type: products
+    values:
+      layout: single
+      comments: true
+      related: true
   # _posts
   - scope:
       path: ""
