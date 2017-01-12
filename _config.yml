@@ -275,3 +275,4 @@ defaults:
       read_time: true
       comments: true
       related: true
+      author_profile: true
