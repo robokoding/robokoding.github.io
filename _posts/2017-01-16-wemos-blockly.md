@@ -1,5 +1,5 @@
 ---
-title: "Blockly on WEMOS"
+title: "Google Blockly on WEMOS"
 date: 2017-01-16
 ---
 
