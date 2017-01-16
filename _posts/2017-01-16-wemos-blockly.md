@@ -7,5 +7,5 @@ Using the [PlatformIO](http://platformio.org/) it's easy to program any [ESP8266
 
 <figure>
   <img src="/assets/images/wemos-blockly.jpg" alt="sumorobots">
-  <figcaption>Blockly served from WEMOD D1 mini pro</figcaption>
+  <figcaption>Google Blockly served from WEMOD D1 mini pro</figcaption>
 </figure>
