@@ -1,7 +1,7 @@
 ---
 title: "Sumorobot"
 permalink: "/products/sumorobot/"
-date: 2017-01-25
+date: 2017-03-17
 ---
 
 Sumorobots are an amazing way to learn about science, technology, engineering and mathematics in a fun and interactive way. [Robot-sumo](https://en.wikipedia.org/wiki/Robot-sumo), or pepe-sumo, is a sport in which two robots attempt to push each other out of a circle (in a similar fashion to the sport of sumo). The robots used in this competition are called sumobots.
@@ -26,9 +26,9 @@ Then lay down the field and place the sumorobots and test your code and may the 
   <figcaption>Sumorobots on the field</figcaption>
 </figure>
 
-* Parts kit costs €40, for advanced makers with soldering skills.
-* Assembly kit costs €45, for intermediate makers with assembly skills.
-* All assembled kit costs €50, for beginner makers.
+* Parts kit costs €50, for advanced makers with soldering skills.
+* Assembly kit costs €55, for intermediate makers with assembly skills.
+* All assembled kit costs €60, for beginner makers.
 
-[Contact](/contact/) to buy or in case your interested to organize a sumorobot workshop.
+[Contact](/contact/) to buy, feel free to ask for customizations and also when you want to work together or organize a workshop.
 Happy programming!
