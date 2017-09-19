@@ -26,9 +26,7 @@ Then lay down the field and place the sumorobots and test your code and may the 
   <figcaption>Sumorobots on the field</figcaption>
 </figure>
 
-* Parts kit costs €50, for advanced makers with soldering skills.
-* Assembly kit costs €55, for intermediate makers with assembly skills.
-* All assembled kit costs €60, for beginner makers.
+* Parts kit costs €55, it is meant for Maker parents kids.
 
 [Contact](/contact/) to buy, feel free to ask for customizations and also when you want to work together or organize a workshop.
 Happy programming!
