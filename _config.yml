@@ -60,7 +60,7 @@ github:
 twitter:
   username               : "robokoding"
 facebook:
-  username               : "RoboKoding-685457641509474"
+  username               : "robokoding"
   app_id                 :
   publisher              :
 google_plus:
@@ -85,21 +85,21 @@ author:
   name             : "Silver Kuusik"
   avatar           : "/assets/images/silver.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I love breaking, creating and fixing things."
-  location         : "Skopje"
+  location         : "Turin, Italy"
   email            : "silver@robokoding.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "silver.kuusik.sk"
   foursquare       :
   github           : "silps"
-  google_plus      :
+  google_plus      : "silverkuusik"
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "silver-kuusik-ba1655117"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
