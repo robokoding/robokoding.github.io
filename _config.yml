@@ -6,8 +6,8 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: Kesa tee 5
-city: Pärnu
-state: Pärnumaa
+city: 
+state: Pärnu maakond
 zip_code: 85009
 country: Estonia
 phone: (+39) 392 1309473
