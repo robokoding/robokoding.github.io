@@ -33,3 +33,6 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+include: ["_pages"]
+permalink: /:title/
