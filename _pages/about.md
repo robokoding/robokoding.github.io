@@ -25,16 +25,16 @@ nav-menu: true
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>MISSION</h3>
-		<p>We develop open source hardware and software for learning in a fun, interactive and collaborative way. We create courses that re-program the educational paradigms and bring out the utility of STEM.</p>
+		<p>We develop open source hardware and software for learning in a fun, interactive and collaborative way. We create courses that re-program the educational paradigms and bring out the utility of Science, Technology, Engineering and Mathematics.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>MINDSET</h3>
-		<p>We foster growth mindset and proactive learning attitude. Open-source is the core of our beliefs. We promote digital literacy, enrepreneurship, problem solving and team work.</p>
+		<p>We foster growth mindset and proactive learning attitude. Open-source is the core of our beliefs. We promote digital literacy, enrepreneurship, problem solving and team work. Through joint development we offer up to date solutions that re-invent learning and teaching.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>VALUES</h3>
-		<p>In everything we do, we incorporate the values of openness, sustainability, equal opportunities and equal access to knowledge and learning. We are fully aware of our social responsibility and we actively collaborate in programmes and projects towards environmental protection and the growth of the communities.</p>
+		<p>We incorporate the values of openness, sustainability, equal opportunities and equal access to knowledge and learning. We are fully aware of our social responsibility and we actively collaborate in programmes and projects towards environmental protection and the growth of the communities.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>STORY</h3>
