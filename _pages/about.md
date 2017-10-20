@@ -21,20 +21,20 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>VISION</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>We envision a reality where every child has access to technology, acquires the essentials of the future employability skills and becomes a digitally literate individual.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>MISSION</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<p>We develop open source hardware and software for learning in a fun, interactive and collaborative way. We create courses that re-program the educational paradigms and bring out the utility of STEM.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
 		<h3>MINDSET</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>We foster growth mindset and proactive learning attitude. Open-source is the core of our beliefs. We promote digital literacy, enrepreneurship, problem solving and team work.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>VALUES</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>In everything we do, we incorporate the values of openness, sustainability, equal opportunities and equal access to knowledge and learning. We are fully aware of our social responsibility and we actively collaborate in programmes and projects towards environmental protection and the growth of the communities.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>STORY</h3>
