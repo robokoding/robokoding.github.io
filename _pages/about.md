@@ -34,7 +34,7 @@ nav-menu: true
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>VALUES</h3>
-		<p>We incorporate the values of openness, sustainability, equal opportunities and equal access to knowledge and learning. We are fully aware of our social responsibility and we actively collaborate in programmes and projects towards environmental protection and the growth of the communities.</p>
+		<p>We incorporate the values of openness, sustainability, equal opportunities and equal access to knowledge and learning. We are fully aware of our social responsibility and we actively collaborate in programmes and projects towards environmental protection and the growth of the community.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>STORY</h3>
