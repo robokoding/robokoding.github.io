@@ -21,7 +21,7 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>VISION</h3>
-		<p>We envision a reality where every child has access to technology, acquires the essentials of the future employability skills and becomes a digitally literate individual.</p>
+		<p>We envision a reality where every child has access to technology and learning, acquires the essentials of the future employability skills and becomes a digitally literate individual. We envision a reality where every child has the skills to prototype their own ideas and build their own inventions. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>MISSION</h3>
