@@ -38,7 +38,7 @@ nav-menu: true
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>STORY</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<p>Silver became fascinated by robots in his childhood. He grew up taking things apart, learning how they work and learning how to repair them. From then on, he started building many DiY projects. During high school, he discovered passion for coding. Starting university, Silver joined the Robotics club, and finally got the opportunity to build his own robots. He learnt about open-source and became a passionate maker. He started developing a SumoRobot platform and teaching children in Estonia programming and robotics. That was the stepping stone towards founding RoboKoding. Silver's primary motivation was making robotics and coding easily accessible and available to as many children as possible. He started traveling around Europe, discovering new tools and looking for potential like-minded teammates. Today RoboKoding is a dynamic startup with a team determined to develop innovative technologies and learning tools to enable children to acquire the skills of the future.</p>
 	</div>
 </div>
 
