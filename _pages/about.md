@@ -28,15 +28,15 @@ nav-menu: true
 		<p>We develop open source hardware and software for learning in a fun, interactive and collaborative way. We create courses that re-program the educational paradigms and bring out the utility of Science, Technology, Engineering and Mathematics.</p>
 	</div>
 	<!-- Break -->
-	<div class="4u 12u$(medium)">
+	<div class="6u 12u$(medium)">
 		<h3>MINDSET</h3>
 		<p>We foster growth mindset and proactive learning attitude. Open-source is the core of our beliefs. We promote digital literacy, enrepreneurship, problem solving and team work. Through joint development we offer up to date solutions that re-invent learning and teaching.</p>
 	</div>
-	<div class="4u 12u$(medium)">
+	<div class="6u 12u$(medium)">
 		<h3>VALUES</h3>
 		<p>We incorporate the values of openness, sustainability, equal opportunities and equal access to knowledge and learning. We are fully aware of our social responsibility and we actively collaborate in programmes and projects towards environmental protection and the growth of the community.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="12u$ 12u$(medium)">
 		<h3>STORY</h3>
 		<p>Silver became fascinated by robots in his childhood. He grew up taking things apart, learning how they work and learning how to repair them. From then on, he started building many DiY projects. During high school, he discovered passion for coding. Starting university, Silver joined the Robotics club, and finally got the opportunity to build his own robots. He learnt about open-source and became a passionate maker. He started developing a SumoRobot platform and teaching children in Estonia programming and robotics. That was the stepping stone towards founding RoboKoding. Silver's primary motivation was making robotics and coding easily accessible and available to as many children as possible. He started traveling around Europe, discovering new tools and looking for potential like-minded teammates. Today RoboKoding is a dynamic startup with a team determined to develop innovative technologies and learning tools to enable children to acquire the skills of the future.</p>
 	</div>
