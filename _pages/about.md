@@ -17,7 +17,7 @@ nav-menu: true
 
 <!-- Content -->
 <h2 id="content">WHO WE ARE</h2>
-<p>Robokoding is a startup founded on July 29th 2016 in Estonia by Silver Kuusik. Now we are a compact international team, with a growing network of collaborations and partnerships. Besides Estonia, we are actively working in Italy and the Republic of Macedonia. We incorporate the concept of social entrepreneurship and each project we develop is aimed towards community development, environmental awareness and empowering young people towards a mindset of openness and mutual collaboration.</p>
+<p>Robokoding is a startup founded on July 29th 2016 in Estonia by Silver Kuusik. Now we are a compact international team, with a growing network of collaborations and partnerships. We incorporate the concept of social entrepreneurship and each project we develop is aimed towards community development, environmental awareness and empowering young people towards a mindset of openness and mutual collaboration.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>VISION</h3>
