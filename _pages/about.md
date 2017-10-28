@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: About 
+permalink: "/about/"
 nav-menu: true
 ---
 
@@ -11,33 +12,33 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About Us</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">WHO WE ARE</h2>
+<p>Robokoding is a startup founded in 2016 in Estonia by Silver Kuusik. Now we are a compact international team, with a growing network of collaborations and partnerships. We incorporate the concept of social entrepreneurship and each project we develop is aimed towards community development, environmental awareness and empowering young people towards a mindset of openness and mutual collaboration.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>VISION</h3>
+		<p>We envision a reality where every child has knowledge of different technologies to prototype their own ideas and build their own inventions.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>MISSION</h3>
+		<p>We develop open source hardware and software for learning in a fun, interactive and collaborative way. We create courses that re-program the educational paradigms and bring out the utility of Science, Technology, Engineering and Mathematics.</p>
 	</div>
 	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<div class="6u 12u$(medium)">
+		<h3>MINDSET</h3>
+		<p>We foster growth mindset and proactive learning attitude. Open-source is the core of our beliefs. We promote digital literacy, enrepreneurship, problem solving and team work. Through joint development we offer up to date solutions that re-invent learning and teaching.</p>
 	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<div class="6u 12u$(medium)">
+		<h3>VALUES</h3>
+		<p>We incorporate the values of openness, sustainability, equal opportunities and equal access to knowledge and learning. We are fully aware of our social responsibility and we actively collaborate in programmes and projects towards environmental protection and the growth of the community.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	<div class="12u$ 12u$(medium)">
+		<h3>STORY</h3>
+		<p>Silver became fascinated by robots in his childhood. He grew up taking things apart, learning how they work and learning how to repair them. From then on, he started building many DiY projects. During high school, he discovered passion for coding. Starting university, Silver joined the Robotics club, and finally got the opportunity to build his own robots. He learnt about open-source and became a passionate maker. He started developing a SumoRobot platform and teaching children in Estonia programming and robotics. That was the stepping stone towards founding RoboKoding. Silver's primary motivation was making robotics and coding easily accessible and available to as many children as possible. He started traveling around Europe, discovering new tools and looking for potential like-minded teammates. Today RoboKoding is a dynamic startup with a team determined to develop innovative technologies and learning tools to enable children to acquire the skills of the future.</p>
 	</div>
 </div>
 
