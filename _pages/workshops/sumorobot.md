@@ -16,5 +16,3 @@ Reccommended age: 7+
 Time frame: 90 minutes
 
 Book a workshop on [workshops@robokoding.com](#) or [+(39) 329 7642062](#).
-
-![blockly](../../../assets/images/blockly.jpg)
