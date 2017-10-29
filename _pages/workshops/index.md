@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: landing
 title: Workshops
-description: Hands on learning experience
+tagline: Hands on learning experience
+description: RoboKoding is organizing different fun, interactive and collaborative workshops to enable children and teenagers to learn basics of robotics, electronics and programming.
 image: assets/images/workshop.jpg
 permalink: "/workshops/"
 nav-menu: true

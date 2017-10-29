@@ -13,5 +13,4 @@ The SumoRobot can be programmed over the browser using a graphical programming i
 
 Happy programming!
 
-![blockly](../../../assets/images/blockly.jpg)
 ![kit](../../../assets/images/kit.jpg)

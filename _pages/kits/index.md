@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: landing
 title: Kits
-description: Learn to assemble and program
+tagline: Learn to assemble and program
+description: RoboKoding is developing and selling different interactive self assembly kits for enabling fun and interactive learning.
 image: assets/images/kit.jpg
 permalink: "/kits/"
 nav-menu: true
