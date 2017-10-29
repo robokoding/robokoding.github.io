@@ -13,10 +13,10 @@ country: Estonia
 phone: (+39) 392 1309473
 
 # menu/nav pages
-nav-pages: ["About Us", "Workshops", "Kits"]
+nav-pages: ["Workshops", "Courses", "Remote Lab", "Kits", "About Us"]
 
 # homepage tiles
-tiles-pages: ["Workshops", "Kits"] # which pages to show
+tiles-pages: ["Workshops", "Courses", "Remote Lab", "Kits"] # which pages to show
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 2
 

@@ -12,10 +12,12 @@
 <!-- Menu -->
 <nav id="menu">
 	<ul class="links">
+		{% for nav-page in site.nav-pages %}
     {% for page in site.pages %}
-		    {% if site.nav-pages contains page.title %}
+		    {% if nav-page == page.title %}
 		        <li><a href="{{ page.url | absolute_url }}/">{{ page.title }}</a></li>
 	    	{% endif %}
+		{% endfor %}
 		{% endfor %}
 	</ul>
 	<!--<ul class="actions vertical">

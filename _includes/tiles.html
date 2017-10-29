@@ -12,9 +12,10 @@
 	  </article>
 	{% endif %}
 	{% endfor %}
+	{% for tiles-page in site.tiles-pages %}
 	{% for page in site.pages %}
 	{% if site.tiles-source == 'pages' %}
-	{% if site.tiles-pages contains page.title %}
+	{% if tiles-page == page.title %}
         <article>
                 <span class="image">
                         <img src="{{ page.image }}" alt="" />
@@ -26,5 +27,6 @@
         </article>
 	{% endif %}
 	{% endif %}
+	{% endfor %}
 	{% endfor %}
 </section>
