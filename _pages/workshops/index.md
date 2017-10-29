@@ -15,14 +15,14 @@ nav-menu: true
 	{% unless workshop.path contains "index" %}
 	<section>
 		<a href="{{ workshop.permalink | absolute_url }}" class="image">
-			<img src="{{ workshop.image }}" alt="thumbnail" data-position="center center" />
+			<img src="{{ workshop.image | absolute_url }}" alt="thumbnail" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>{{ workshop.title }}</h3>
 				</header>
-				<p>{{ workshop.content | truncatewords: 20 }}</p>
+				<p>{{ workshop.content | truncatewords: 30 }}</p>
 				<ul class="actions">
 					<li><a href="{{ workshop.permalink | absolute_url }}" class="button">Learn more</a></li>
 				</ul>
