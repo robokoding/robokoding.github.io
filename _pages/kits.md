@@ -1,8 +1,10 @@
 ---
-layout: post
+layout: page
 title: Kits
 description: Learn to assemble and program
 image: assets/images/kit.jpg
+permalink: "/kits/"
+nav-menu: true
 ---
 
 LED badges are portable companions that bring fun to everyday life. They can be programmed over USB or WiFi to show different animations and scroll words.

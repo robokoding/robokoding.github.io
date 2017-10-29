@@ -13,7 +13,8 @@ country: Estonia
 phone: (+39) 392 1309473
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-pages: ["Workshops", "Kits"] # which pages to show
+tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 2
 
 # social settings
