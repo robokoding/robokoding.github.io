@@ -7,9 +7,6 @@ permalink: "/landing/"
 nav-menu: true
 ---
 
-<!-- Main -->
-<div id="main">
-
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -84,5 +81,3 @@ nav-menu: true
 		</ul>
 	</div>
 </section>
-
-</div>

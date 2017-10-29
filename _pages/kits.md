@@ -7,16 +7,6 @@ permalink: "/kits/"
 nav-menu: true
 ---
 
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>About Us</h1>
-		</header>
-
 LED badges are portable companions that bring fun to everyday life. They can be programmed over USB or WiFi to show different animations and scroll words.
 
 ![badge](../../../assets/images/badge.jpg)
@@ -36,8 +26,3 @@ The sumorobot can be programmed over the browser using a graphical programming i
 The sumorobot parts kit costs €55 and will be announced on [Tindie](https://www.tindie.com/stores/silbo/). Contact [info@robokoding.com]() for more info.
 
 Happy programming!
-
-  </div>
-</section><!-- end of One -->
-
-</div><!-- end of Main -->

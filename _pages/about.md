@@ -1,19 +1,9 @@
 ---
 layout: page
-title: About 
+title: About Us
 permalink: "/about/"
 nav-menu: true
 ---
-
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>About Us</h1>
-		</header>
 
 <!-- Content -->
 <h2 id="content">WHO WE ARE</h2>
@@ -403,9 +393,4 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </code></pre>
 
 </div>
-</div>
-
-</div>
-</section>
-
 </div>
