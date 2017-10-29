@@ -10,20 +10,26 @@ nav-menu: true
 
 <!-- Two -->
 <section id="two" class="spotlights">
+	{% for workshop in site.pages %}
+  {% if workshop.path contains "/workshops/" %}
+	{% unless workshop.path contains "index" %}
 	<section>
-		<a href="/workshops/sumorobot" class="image">
-			<img src="/assets/images/workshop.jpg" alt="" data-position="center center" />
+		<a href="{{ workshop.permalink | absolute_url }}" class="image">
+			<img src="{{ workshop.image }}" alt="thumbnail" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>SumoRobot workshop</h3>
+					<h3>{{ workshop.title }}</h3>
 				</header>
-				<p>Sumorobots are an amazing way to learn the basics of programming and electronics in a fun and interactive way. The workshop participants will learn the basics of programming and robotics in a fun, interactive and collaborative way.</p>
+				<p>{{ workshop.content | truncatewords: 20 }}</p>
 				<ul class="actions">
-					<li><a href="/workshops/sumorobot" class="button">Learn more</a></li>
+					<li><a href="{{ workshop.permalink | absolute_url }}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	{% endunless %}
+	{% endif %}
+	{% endfor %}
 </section>
