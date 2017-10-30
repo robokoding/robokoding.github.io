@@ -1,29 +1,33 @@
 ---
 layout: landing
-title: Remote Lab
+title: Remote Labs
 tagline: Remote learning experience
-description: RoboKoding is developing different remote labs so everyone can have access to education from anywhere.
-image: assets/images/kit.jpg
+description: We are offering different remote labs so everyone can have access to education from anywhere.
+image: assets/images/remotelab.jpg
 permalink: "/remotelab/"
-nav-menu: true
 ---
-
 <!-- Two -->
 <section id="two" class="spotlights">
+	{% for remotelab in site.pages %}
+  {% if remotelab.path contains "/remotelab/" %}
+	{% unless remotelab.path contains "index" %}
 	<section>
-		<a href="/remotelab/sumorobot" class="image">
-			<img src="/assets/images/kit.jpg" alt="" data-position="center center" />
+		<a href="{{ remotelab.permalink | absolute_url }}" class="image">
+			<img src="{{ remotelab.image | absolute_url }}" alt="thumbnail" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>SumoRobot remote lab</h3>
+					<h3>{{ remotelab.title }}</h3>
 				</header>
-				<p>SumoRobot remote lab is a fun and interactive way to learn the basics of programming.</p>
+				<p>{{ remotelab.content | truncatewords: 30 }}</p>
 				<ul class="actions">
-					<li><a href="/remotelab/sumorobot" class="button">Learn more</a></li>
+					<li><a href="{{ remotelab.permalink | absolute_url }}" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	{% endunless %}
+	{% endif %}
+	{% endfor %}
 </section>
