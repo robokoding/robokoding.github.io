@@ -16,7 +16,7 @@ phone: (+39) 392 1309473
 nav-pages: ["Workshops", "Courses", "Remote Labs", "Kits", "About Us"]
 
 # homepage tiles
-tiles-pages: ["Workshops", "Courses", "Remote Lab", "Kits"] # which pages to show
+tiles-pages: ["Workshops", "Courses", "Remote Labs", "Kits"] # which pages to show
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 2
 
