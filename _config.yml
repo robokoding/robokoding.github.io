@@ -13,7 +13,7 @@ country: Estonia
 phone: (+39) 392 1309473
 
 # menu/nav pages
-nav-pages: ["Workshops", "Courses", "Remote Lab", "Kits", "About Us"]
+nav-pages: ["Workshops", "Courses", "Remote Labs", "Kits", "About Us"]
 
 # homepage tiles
 tiles-pages: ["Workshops", "Courses", "Remote Lab", "Kits"] # which pages to show
