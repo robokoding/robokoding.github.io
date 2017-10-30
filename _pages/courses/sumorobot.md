@@ -11,7 +11,7 @@ The course is based on non-formal methodologies of learning and teaching like ha
 learning. The main aim of the course is to provide a learning environment where children acquire the skills and the mindset to 
 build their own inventions.
 
-The course is composed of 6 workshops with the following topics:
+<span>The course is composed of 6 workshops with the following topics:</span>
 * Electronics and circuits;
 * Mechanics, soldering and assembly;
 * Programming and programming logic (Phyton).
