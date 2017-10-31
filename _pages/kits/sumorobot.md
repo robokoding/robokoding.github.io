@@ -1,8 +1,8 @@
 ---
 layout: page
 title: SumoRobot
+image: assets/images/kit.jpg
 permalink: "/kits/sumorobot/"
-nav-menu: true
 ---
 
 SumoRobots are an amazing way to learn the basics of programming and electronics in a fun and interactive way. Robot-sumo, or pepe-sumo, is a sport in which two robots attempt to push each other out of a circle (in a similar fashion to the sport of sumo). The robots used in this competition are called sumobots.
