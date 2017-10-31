@@ -11,6 +11,7 @@ The hardware and software of the SumoRobot kit is open-source, you can find ever
 
 The SumoRobot can be programmed over the browser using a graphical programming interface or Python code. The SumoRobot parts kit costs €55 and will be announced on [Tindie](https://www.tindie.com/stores/silbo/). Contact [info@robokoding.com]() for more info.
 
-Happy programming!
+Price: €55  
+Reccommended age: 7+
 
 ![kit](../../../assets/images/kit.jpg)
