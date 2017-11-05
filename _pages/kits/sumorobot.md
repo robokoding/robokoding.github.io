@@ -5,7 +5,7 @@ image: assets/images/kit.jpg
 permalink: "/kits/sumorobot/"
 ---
 
-SumoRobots are an amazing way to learn the basics of programming and robotics in a home learning environment. Using the kit's step-by-step instructions, the children will be able to build their own SumoRobot. The kit consists of all the necessary parts to build the SumoRobot. Necessary tools for the assembly process are: soldering iron, soldering wire, screwdriver and scissors.
+SumoRobots are an amazing way to learn the basics of programming and robotics in a home learning environment. Using the kit's step-by-step instructions, the children will be able to build their own SumoRobot. The kit consists of all the necessary parts to build the SumoRobot. Necessary tools for the assembly process are: soldering iron, soldering wire, screwdriver and scissors. We storngly advise the assembly process to be guided or supervised by a person who feels comfotable using the listed tools.
 
 The hardware and software of the SumoRobot kit are open-source, and you can find everything on [GitHub](https://github.com/robokoding).
 
