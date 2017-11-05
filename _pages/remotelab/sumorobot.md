@@ -9,4 +9,4 @@ Everyone can get a remote access to 2 SumoRobots on the SumoField, that they can
 
 The Lab can be used for conducting distance learning workshops or as a brief encounter for getting acquinted with the SumoRobot. 
 
-To find out more contact us on [workshops@robokoding.com](#) or [(+39) 329 7642062](#)
+To find out more contact us on [workshops@robokoding.com](#) or [(+39) 329 7642062](#).
