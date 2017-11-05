@@ -7,7 +7,7 @@ permalink: "/kits/sumorobot/"
 
 SumoRobots are an amazing way to learn the basics of programming and robotics in a home learning environment. Using the kit's step-by-step instructions, the children will be able to build their own SumoRobot. The kit consists of all the necessary parts to build the SumoRobot. Necessary tools for the assembly process are: soldering iron, soldering wire, screwdriver and scissors.
 
-The hardware and software of the SumoRobot kit are open-source, and you can find everything on [GitHub (https://github.com/robokoding).
+The hardware and software of the SumoRobot kit are open-source, and you can find everything on [GitHub](https://github.com/robokoding).
 
 The assembled SumoRobot can be programmed over the browser using a graphical programming interface or Python code. The SumoRobot kit will be announced on [Tindie](https://www.tindie.com/stores/silbo/) starting from January 2018. 
 
