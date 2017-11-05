@@ -26,4 +26,4 @@ Participants: 5-10
 Reccommended age: 7+  
 Time frame: 6 sessions of 90 minutes.
 
-Book this course on [workshops@robokoding.com](#) or [+(39) 329 7642062](#).
+Book this course on [workshops@robokoding.com](#) or [(+39) 329 7642062](#).
