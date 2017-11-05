@@ -1,17 +1,19 @@
 ---
 layout: page
-title: SumoRobot
+title: SumoRobot Kit
 image: assets/images/kit.jpg
 permalink: "/kits/sumorobot/"
 ---
 
-SumoRobots are an amazing way to learn the basics of programming and electronics in a fun and interactive way. Robot-sumo, or pepe-sumo, is a sport in which two robots attempt to push each other out of a circle (in a similar fashion to the sport of sumo). The robots used in this competition are called sumobots.
+SumoRobots are an amazing way to learn the basics of programming and robotics in a home learning environment. Using the kit's step-by-step instructions, the children will be able to build their own SumoRobot. The kit consists of all the necessary parts to build the SumoRobot. Necessary tools for the assembly process are: soldering iron, soldering wire, screwdriver and scissors.
 
-The hardware and software of the SumoRobot kit is open-source, you can find everything on [GitHub](https://github.com/robokoding) and don't forget to checkout the development [gallery](https://goo.gl/photos/vJf1QYrnvfJTh55V8). The SumoRobot kit consists of all the necessary parts to build your own SumoRobot.
+The hardware and software of the SumoRobot kit are open-source, and you can find everything on [GitHub (https://github.com/robokoding).
 
-The SumoRobot can be programmed over the browser using a graphical programming interface or Python code. The SumoRobot parts kit costs €55 and will be announced on [Tindie](https://www.tindie.com/stores/silbo/). Contact [info@robokoding.com]() for more info.
+The assembled SumoRobot can be programmed over the browser using a graphical programming interface or Python code. The SumoRobot kit will be announced on [Tindie](https://www.tindie.com/stores/silbo/) starting from January 2018. 
 
 Price: €55  
 Reccommended age: 7+
+
+Pre-order a kit on [kits@robokoding.com](#) or [(+39) 329 7642062](#).
 
 ![kit](../../../assets/images/kit.jpg)
