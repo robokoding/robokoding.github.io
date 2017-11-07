@@ -11,7 +11,7 @@ Through an interdisciplinary approach, the children become familiar with discipl
 
 Applying non-formal education methodologies, such as learning-by-doing, hands-on experience and gamification, the children encounter a new way of learning. It develops their competences in teamwork, problem solving and analytical thinking.
 
-Price: €225  
+Price: €150-225  
 Participants: 4-15  
 Reccommended age: 7+  
 Time frame: 90 minutes
