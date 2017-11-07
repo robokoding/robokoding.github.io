@@ -21,7 +21,7 @@ The course is composed of 6 workshops with the following topics:
 This is an introductory course where no previous experience is needed and all of the course materials are provided by us. Each 
 participant gets the SumoRobot they built to take it home and use it for further learning and development. 
 
-Price: €1250-1550  
+Price: €1625-1900  
 Participants: 5-10  
 Reccommended age: 7+  
 Time frame: 6 sessions of 90 minutes.
