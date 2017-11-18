@@ -4,12 +4,12 @@ title: Remote Labs
 tagline: Remote learning experience
 description: We offer different remote labs to enable access to STEM education and educational tools to every child from anywhere in the world.
 image: assets/images/remotelab.jpg
-permalink: "/remotelab/"
+permalink: "/remotelabs/"
 ---
 <!-- Two -->
 <section id="two" class="spotlights">
 	{% for remotelab in site.pages %}
-  {% if remotelab.path contains "/remotelab/" %}
+  {% if remotelab.path contains "/remotelabs/" %}
 	{% unless remotelab.path contains "index" %}
 	<section>
 		<a href="{{ remotelab.permalink | absolute_url }}" class="image">
