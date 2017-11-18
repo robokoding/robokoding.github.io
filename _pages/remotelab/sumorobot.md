@@ -2,7 +2,7 @@
 layout: page
 title: SumoRobot Remote Lab
 image: assets/images/remotelab.jpg
-permalink: "/kits/sumorobot/"
+permalink: "/remotelabs/sumorobot/"
 ---
 
 Everyone can get a remote access to 2 SumoRobots on the SumoField, that they can programm and observe over a live stream. 
