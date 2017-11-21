@@ -17,6 +17,7 @@
 		@include vendor('justify-content', 'center');
 		@include vendor('pointer-events', 'none');
 		background: transparentize(_palette(bg), 0.1);
+		font-family: _font(family-robot) !important;
 		box-shadow: none;
 		height: 100%;
 		left: 0;
