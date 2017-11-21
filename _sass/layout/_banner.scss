@@ -75,6 +75,7 @@
 				@include vendor('display', 'flex');
 				@include vendor('align-items', 'center');
 				margin: 0 0 _size(element-margin) 0;
+				font-family: _font(family);
 
 				> * {
 					margin-left: 1.5em;
@@ -87,6 +88,7 @@
 
 				p {
 					font-size: 0.7em;
+					font-family: _font(family);
 					font-weight: _font(weight-bold);
 					letter-spacing: _font(letter-spacing-alt);
 					text-transform: uppercase;
