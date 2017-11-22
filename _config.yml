@@ -4,6 +4,7 @@ subtitle: The basics of programming and robotics.
 email: info@robokoding.com
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+legal: RoboKoding OÜ
 author:
 street_address: Kesa tee 5
 city:
