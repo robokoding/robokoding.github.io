@@ -17,6 +17,7 @@
 		@include vendor('justify-content', 'center');
 		@include vendor('pointer-events', 'none');
 		background: transparentize(_palette(bg), 0.1);
+		font-family: _font(family-robot);
 		box-shadow: none;
 		height: 100%;
 		left: 0;
@@ -70,6 +71,7 @@
 						display: block;
 						font-size: 0.8em;
 						font-weight: _font(weight-bold);
+						font-family: _font(family-robot);
 						letter-spacing: _font(letter-spacing-alt);
 						line-height: 4em;
 						text-decoration: none;

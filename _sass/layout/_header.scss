@@ -17,7 +17,6 @@
 		box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);
 		cursor: default;
 		font-weight: _font(weight-bold);
-		font-family: _font(family-robot);
 		height: 3.25em;
 		left: 0;
 		letter-spacing: _font(letter-spacing-alt);
@@ -37,12 +36,17 @@
 			line-height: inherit;
 			padding: 0 1.5em;
 
+			span {
+				font-family: _font(family-robot);
+			}
+
 			strong {
 				@include vendor('transition', (
 					'background-color #{_duration(transition)} ease-in-out',
 					'color #{_duration(transition)} ease-in-out'
 				));
 				background-color: _palette(fg-bold);
+				font-family: _font(family-robot);
 				color: _palette(bg);
 				display: inline-block;
 				line-height: 1.65em;
