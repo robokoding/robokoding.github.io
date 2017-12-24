@@ -9,11 +9,11 @@ SumoRobots are an amazing way to learn the basics of programming and robotics in
 
 The hardware and software of the SumoRobot kit are open-source, and you can find everything on [GitHub](https://github.com/robokoding).
 
-The assembled SumoRobot can be programmed over the browser using a graphical programming interface or Python code. The SumoRobot kit will be announced on [Tindie](https://www.tindie.com/stores/silbo/) starting from January 2018. 
+The assembled SumoRobot can be programmed over the browser using a graphical programming interface or Python code. The SumoRobot kit will be announced on [Tindie](https://www.tindie.com/stores/silbo/) starting from January 2018.
 
 Price: €55  
-Reccommended age: 7+
+Reccommended age: 10+
 
-Pre-order a kit on [kits@robokoding.com](#) or [(+39) 329 7642062](#).
+Pre-order a kit on [kits@robokoding.com](#).
 
 ![kit](../../../assets/images/kit.jpg)

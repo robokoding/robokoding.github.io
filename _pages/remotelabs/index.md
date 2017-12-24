@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Remote Labs
-tagline: Remote learning experience
+tagline: Remote Learning Experience
 description: We offer different remote labs to enable access to STEM education and educational tools to every child from anywhere in the world.
 image: assets/images/remotelab.jpg
 permalink: "/remotelabs/"
@@ -20,7 +20,7 @@ permalink: "/remotelabs/"
 				<header class="major">
 					<h3>{{ remotelab.title }}</h3>
 				</header>
-				<p>{{ remotelab.content | truncatewords: 30 }}</p>
+				<p>{{ remotelab.content | strip_html | truncatewords: 30 }}</p>
 				<ul class="actions">
 					<li><a href="{{ remotelab.permalink | absolute_url }}" class="button">Learn more</a></li>
 				</ul>

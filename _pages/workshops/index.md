@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Workshops
-tagline: Hands on learning experience
+tagline: Hands-on Learning Experience
 description: We conduct workshops to enable children to learn the basics of programming and robotics in an interdisciplinary fashion.
 image: assets/images/workshop.jpg
 permalink: "/workshops/"
@@ -21,7 +21,7 @@ permalink: "/workshops/"
 				<header class="major">
 					<h3>{{ workshop.title }}</h3>
 				</header>
-				<p>{{ workshop.content | truncatewords: 30 }}</p>
+				<p>{{ workshop.content | strip_html | truncatewords: 30 }}</p>
 				<ul class="actions">
 					<li><a href="{{ workshop.permalink | absolute_url }}" class="button">Learn more</a></li>
 				</ul>
