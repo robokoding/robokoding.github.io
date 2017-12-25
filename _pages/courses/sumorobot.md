@@ -26,4 +26,4 @@ Participants: 5-10
 Reccommended age: 7+  
 Time frame: 9 sessions of 90 minutes.
 
-Book this course on [workshops@robokoding.com](#).
+Book this course on [courses@robokoding.com](#).
