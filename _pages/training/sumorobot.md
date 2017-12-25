@@ -5,19 +5,19 @@ permalink: "/training/sumorobot/"
 image: assets/images/training.jpg
 ---
 
-This is a training course for learning how to implement the SumoRobot platform for educational purposes and teaching different disciplines. After completing the course, you will be able to teach soldering, assembly and programming of the SumoRobot. Furthermore, the SumoRobot platform can be used for teaching physics, mechanics, mathematics, electronics and robotics. All the skills during this training will be learned trough hands on experience and after completion you will get to keep the SumoRobot you soldered, assembled and programmed.
+In this training course you will learn how to implement the SumoRobot platform for educational purposes and how to teach the basics of multiple disciplines. After completing the course, you will be able to teach soldering, assembly and programming of the SumoRobot. Furthermore, the SumoRobot platform can be used for teaching physics, mechanics, mathematics, electronics and robotics. All the skills during this training will be learned trough hands-on experience. Upon completion you will get to keep the SumoRobot you have soldered, assembled and programmed.
 
 {::nomarkdown type='html'}
-During the training we will discuss different learning aspects:
+Besides the technical skill, the training will focus on different learning aspects, such as:
 {:/}
-* teamwork
-* interactive
-* peer to peer
-* collaborative
-* try and error
+* teamwork and collaboration
+* interactive communication
+* peer learning
+* trial and error
+* analytical thinking
 * problem solving
 
 Price: €1100  
 Time frame: 9 sessions of 90 minutes.
 
-Book this training on [workshops@robokoding.com](#).
+Book this training on [training@robokoding.com](#).
