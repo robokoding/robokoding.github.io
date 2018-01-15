@@ -27,3 +27,5 @@ Reccommended age: 7+
 Time frame: 9 sessions of 90 minutes.
 
 Book this course on [workshops@robokoding.com](#).
+
+![kit](../../../assets/images/course.jpg)

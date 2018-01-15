@@ -17,3 +17,5 @@ Reccommended age: 7+
 Time frame: 90 minutes
 
 Book this workshop on [workshops@robokoding.com](#).
+
+![kit](../../../assets/images/workshop.jpg)
