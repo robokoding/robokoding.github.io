@@ -13,3 +13,5 @@ Price: €75/h
 Recommended age: 7+
 
 To find out more contact us on [remotelabs@robokoding.com](#).
+
+![kit](../../../assets/images/remotelabs.jpg)
