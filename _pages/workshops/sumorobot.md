@@ -18,4 +18,4 @@ Time frame: 90 minutes
 
 Book this workshop on [workshops@robokoding.com](#).
 
-![kit](../../../assets/images/workshop.jpg)
+![sumorobot-workshop](../../../assets/images/workshop.jpg)
