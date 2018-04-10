@@ -14,7 +14,7 @@ The assembled SumoRobot can be programmed over the browser using a graphical pro
 [![I sell on Tindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png)](https://www.tindie.com/stores/robokoding/?ref=offsite_badges&utm_source=sellers_robokoding&utm_medium=badges&utm_campaign=badge_small)
 
 Price: €55 ($68)  
-Reccommended age: 10+
+Recommended age: 10+
 
 Pre-order a kit on [kits@robokoding.com](#).
 
