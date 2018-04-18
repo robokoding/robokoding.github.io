@@ -3,6 +3,7 @@ layout: page
 title: SumoRobot Circuit Workshop
 permalink: "/workshops/sumorobot-circuit/"
 image: assets/images/sumorobot-circuit.jpg
+order: 3
 ---
 
 An introductory workshop to circuits and robotics utilizing RoboKoding's SumoRobot tool.
