@@ -9,7 +9,8 @@ permalink: "/workshops/"
 
 <!-- Two -->
 <section id="two" class="spotlights">
-	{% for workshop in site.pages %}
+	{% assign sorted_pages = site.pages | sort:"order" %}
+	{% for workshop in sorted_pages %}
   {% if workshop.path contains "/workshops/" %}
 	{% unless workshop.path contains "index" %}
 	<section>
