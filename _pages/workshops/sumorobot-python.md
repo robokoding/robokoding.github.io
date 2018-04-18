@@ -5,7 +5,7 @@ permalink: "/workshops/sumorobot-python/"
 image: assets/images/sumorobot-python.jpg
 ---
 
-An introductory workshop to programming and robotics utilizing RoboKoding's SumoRobot tool.
+An introductory workshop to Python programming and robotics utilizing RoboKoding's SumoRobot tool.
 
 Through an interdisciplinary approach, the children become familiar with disciplines such as electronics, mechanics and logic of programming.
 
