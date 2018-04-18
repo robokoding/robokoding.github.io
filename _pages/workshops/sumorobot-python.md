@@ -3,6 +3,7 @@ layout: page
 title: SumoRobot Python Workshop
 permalink: "/workshops/sumorobot-python/"
 image: assets/images/sumorobot-python.jpg
+order: 2
 ---
 
 An introductory workshop to Python programming and robotics utilizing RoboKoding's SumoRobot tool.
