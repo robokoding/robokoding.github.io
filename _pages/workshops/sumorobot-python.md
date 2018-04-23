@@ -2,7 +2,7 @@
 layout: page
 title: SumoRobot Python Workshop
 permalink: "/workshops/sumorobot-python/"
-image: assets/images/sumorobot-python.jpg
+image: assets/images/sumorobot-python.png
 order: 2
 ---
 
@@ -19,4 +19,4 @@ Time frame: 90 minutes
 
 Book this workshop on [workshops@robokoding.com](#).
 
-![sumorobot-workshop](../../../assets/images/sumorobot-python.jpg)
+![sumorobot-workshop](../../../assets/images/sumorobot-python.png)
