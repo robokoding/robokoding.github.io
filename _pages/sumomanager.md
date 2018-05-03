@@ -4,8 +4,13 @@ title: SumoManager
 permalink: "/sumomanager/"
 ---
 
-<div id="devices"></div>
+<select id="devices"></select>
+<br>
+<input type="text" placeholder="SSID" id="ssid">
+<input type="password" placeholder="Password" id="password">
+<br>
 <button type="button" id="device-scan">Scan USB</button>
+<button type="button" id="addWifiButton">Add wifi network</button>
 
 <script>
   let button = document.getElementById('device-scan');
