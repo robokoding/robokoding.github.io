@@ -4,9 +4,9 @@ title: SumoManager
 permalink: "/sumomanager/"
 ---
 
-<span>1. Click scan and select the USB device</span>
+<span>1. Click scan, select the USB device and click connect</span>
 <br>
-<span>2. Enter WiFi network details</span>
+<span>2. Enter WiFi network credential</span>
 <br>
 <span>3. Click add WiFi network</span>
 <br>
@@ -15,8 +15,9 @@ permalink: "/sumomanager/"
 <button style="margin-top: 5px;" type="button" id="device-scan">1. Scan USB</button>
 <br>
 <br>
-<input type="text" placeholder="2. SSID" id="ssid">
-<input type="password" placeholder="2. Password" id="password">
+<label for="ssid">2. Enter WiFi credentials</label>
+<input type="text" placeholder="SSID" id="ssid">
+<input type="password" placeholder="Password" id="password">
 <button style="margin-top: 5px;" type="button" id="add-wifi-button">3. Add WiFi network</button>
 
 <script>
