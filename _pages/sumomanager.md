@@ -11,7 +11,7 @@ permalink: "/sumomanager/"
 <span>3. Press add wifi network</span>
 <br>
 
-<input type="text" placehonder="Select USB device" id="device" readonly>
+<input type="text" placeholder="Select USB device" id="device" readonly>
 <br>
 <input type="text" placeholder="SSID" id="ssid">
 <input type="password" placeholder="Password" id="password">
@@ -22,7 +22,7 @@ permalink: "/sumomanager/"
 <script>
   let button = document.getElementById('device-scan');
   button.addEventListener('click', async () => {
-    navigator.usb.requestDevice({ filters: [{ vendorId: 0x2341 }] }).then(selectedDevice => {
+    navigator.usb.requestDevice({ filters: [{ vendorId: 0x10C4 }] }).then(selectedDevice => {
       document.getElementById('device').value = selectedDevice.productName;
     });
   });
