@@ -14,6 +14,7 @@ Choose your operating system
 ## Download Driver
 Additionally on Windows and MAC OS you will need a driver software so your computer  
 can successfully communicate with the SumoRobot.
+
 <a href="https://wiki.wemos.cc/_media/ch341ser_mac-1.4.zip" class="icon alt fa-apple"></a>
 <a href="https://wiki.wemos.cc/_media/file:ch341ser_win.zip" class="icon alt fa-windows"></a>
 
@@ -27,9 +28,9 @@ no firmware on the SumoRobot yet.
 ![sumomanager](../assets/images/sumomanager.png)
 
 ## Updating Firmware
-Then you can upload the newest firmware on the SumoRobot. From the application file menu  
-choose **update firmware**. Then wait until the firmware downloads and gets uploaded to  
-the SumoRobot.  
+Once the SumoRobot is connected you can upload the newest firmware on the SumoRobot.  
+From the application file menu choose **update firmware**. Then wait until the firmware  
+downloads and gets uploaded to the SumoRobot.  
 ![sumomanager](../assets/images/sumomanager-update-firmware.png)
 
 ## Adding a WiFi network
