@@ -37,7 +37,7 @@ downloads and gets uploaded to the SumoRobot.
 Finally you can add your Wifi network to your SumoRobot, so it can remember it and  
 automatically connect to it once you turn the SumoRobot on. First disconnect and  
 reconnect your SumoRobot, so the WiFi networks are reloaded. Then select the network  
-name from the list and enter the network password in the field below. Finally click . 
+name from the list and enter the network password in the field below. Finally click  
 on the **Add WiFi network** button. You can also add more networks, so you can use it  
 in several locations.  
 ![sumomanager](../assets/images/sumomanager-add-wifi.png)
