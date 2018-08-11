@@ -4,11 +4,18 @@ title: SumoManager
 permalink: "/sumomanager/"
 ---
 
-Download SumoManager for your operating system:
+## Download SumoManager
+Choose your operating system
 
 <a href="https://github.com/robokoding/sumomanager-desktop/releases/download/v0.3/SumoManager.deb" class="icon alt fa-linux"></a>
 <a href="https://github.com/robokoding/sumomanager-desktop/releases/download/v0.5/SumoManager.dmg" class="icon alt fa-apple"></a>
 <a href="https://github.com/robokoding/sumomanager-desktop/releases/download/v0.5/SumoManager.exe" class="icon alt fa-windows"></a>
+
+## Download Driver
+Additionally on Windows and MAC OS you will need a driver software so your computer  
+can successfully communicate with the SumoRobot.
+<a href="https://wiki.wemos.cc/_media/ch341ser_mac-1.4.zip" class="icon alt fa-apple"></a>
+<a href="https://wiki.wemos.cc/_media/file:ch341ser_win.zip" class="icon alt fa-windows"></a>
 
 ## Connecting the SumoRobot
 Once you have your SumoRobot assembled you will need to upload it's software (firmware)  
