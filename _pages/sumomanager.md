@@ -29,14 +29,14 @@ no firmware on the SumoRobot yet.
 
 ## Updating Firmware
 Once the SumoRobot is connected you can upload the newest firmware on the SumoRobot.  
-From the application file menu choose **update firmware**. Then wait until the firmware  
-downloads and gets uploaded to the SumoRobot.  
+From the application menu choose **File > Update Firmware**. Then wait until the firmware  
+downloads and gets uploaded to the SumoRobot. Once the firmware is uploaded successfully  
+the SumoManager tries to reload the WiFi networks.  
 ![sumomanager](../assets/images/sumomanager-update-firmware.png)
 
 ## Adding a WiFi network
 Finally you can add your Wifi network to your SumoRobot, so it can remember it and  
-automatically connect to it once you turn the SumoRobot on. First disconnect and  
-reconnect your SumoRobot, so the WiFi networks are reloaded. Then select the network  
+automatically connect to it once you turn the SumoRobot on. Select the network  
 name from the list and enter the network password in the field below. Finally click  
 on the **Add WiFi network** button. You can also add more networks, so you can use it  
 in several locations.  
