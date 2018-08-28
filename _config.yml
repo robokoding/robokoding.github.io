@@ -7,7 +7,7 @@ url: "" # the base hostname & protocol for your site
 legal: RoboKoding LTD
 author:
 street_address: Kesa tee 5-1
-city: Pärnumaa
+city: Parnumaa
 state: Tori vald
 zip_code: 85009
 country: Estonia
@@ -27,8 +27,8 @@ facebook_url: https://www.facebook.com/robokoding
 github_url: https://github.com/robokoding
 gitlab_url:
 googleplus_url: https://plus.google.com/communities/113777569723708954777
-instagram_url: https://www.instagram.com/robokoding/
-linkedin_url: https://www.linkedin.com/company/robokoding-o%C3%BC
+instagram_url: https://www.instagram.com/robokoding
+linkedin_url: https://www.linkedin.com/company/robokoding
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/robokoding
