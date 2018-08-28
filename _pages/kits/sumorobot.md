@@ -18,6 +18,7 @@ Recommended age: 10+
 
 1. Once you have received your SumoRobot kit head over to assembly instructions [here](/kits/sumorobot/sumohardware).  
 2. Once you have assembled your SumoRobot head over to download SumoManager [here](/kits/sumorobot/sumomanager).  
-3. Once you have updated the firmware and added your WiFi network head [here](https://sumo.robokoding.com).  
+3. Once you have updated the firmware and added your WiFi network head [here](/kits/sumorobot/sumointerface).  
+4. Finally you can print your own SumoField on A0 paper in a local print store, download it [here](/assets/docs/sumofield.pdf).
 
 ![kit](/assets/img/sumorobot_kit.jpg)
