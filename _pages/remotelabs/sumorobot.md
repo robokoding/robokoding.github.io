@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SumoRobot Remote Lab
-image: assets/images/remotelab.jpg
+image: assets/img/sumorobot_remotelab.jpg
 permalink: "/remotelabs/sumorobot/"
 ---
 
@@ -14,4 +14,4 @@ Recommended age: 7+
 
 To find out more contact us on [remotelabs@robokoding.com](#).
 
-![sumorobot-remotelab](../../../assets/images/remotelab.jpg)
+![sumorobot-remotelab](/assets/img/sumorobot_remotelab.jpg)

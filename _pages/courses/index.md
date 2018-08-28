@@ -3,7 +3,7 @@ layout: landing
 title: Courses
 tagline: Applied Learning Experience
 description: We carry out pre-designed or custom-made courses to teach children STEM education, maker culture and creative problem solving, through an interdisciplinary and applied approach.
-image: assets/images/course.jpg
+image: assets/img/sumorobot_workshop_2.jpg
 permalink: "/courses/"
 ---
 

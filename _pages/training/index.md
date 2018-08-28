@@ -3,7 +3,7 @@ layout: landing
 title: Training
 tagline: Professional Learning Experience
 description: We provide onsite or virtual learning environment for upgrading technical skills and implementing various tech tools in educational purposes.
-image: assets/images/training.jpg
+image: assets/img/sumorobot_training.jpg
 permalink: "/training/"
 ---
 

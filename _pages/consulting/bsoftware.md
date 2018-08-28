@@ -2,7 +2,7 @@
 layout: page
 title: Software Consulting
 permalink: "/consulting/software/"
-image: assets/images/firmware.png
+image: assets/img/sumorobot_firmware.png
 ---
 
 We provide software consulting in three main areas:

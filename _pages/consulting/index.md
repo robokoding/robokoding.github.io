@@ -3,7 +3,7 @@ layout: landing
 title: Consulting
 tagline: Custom-Made Experience
 description: We provide onsite or remote consulting to find the best platform for your needs or develop a custom solution, hardware and software.
-image: assets/images/consulting.jpg
+image: assets/img/consulting.jpg
 permalink: "/consulting/"
 ---
 

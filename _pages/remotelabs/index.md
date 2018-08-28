@@ -3,7 +3,7 @@ layout: landing
 title: Remote Labs
 tagline: Remote Learning Experience
 description: We organize different remote labs to enable access to STEM education and educational tools to every child from anywhere in the world.
-image: assets/images/remotelab.jpg
+image: assets/img/sumorobot_remotelab.jpg
 permalink: "/remotelabs/"
 ---
 <!-- Two -->

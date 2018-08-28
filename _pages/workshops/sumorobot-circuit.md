@@ -2,7 +2,7 @@
 layout: page
 title: SumoRobot Circuit Workshop
 permalink: "/workshops/sumorobot-circuit/"
-image: assets/images/sumorobot-circuit.jpg
+image: assets/img/sumorobot_circuit.jpg
 order: 3
 ---
 
@@ -19,4 +19,4 @@ Time frame: 90 minutes
 
 Book this workshop on [workshops@robokoding.com](#).
 
-![sumorobot-workshop](../../../assets/images/sumorobot-circuit.jpg)
+![sumorobot-workshop](/assets/img/sumorobot_circuit.jpg)

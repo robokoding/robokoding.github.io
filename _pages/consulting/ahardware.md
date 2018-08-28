@@ -2,7 +2,7 @@
 layout: page
 title: Hardware Consulting
 permalink: "/consulting/hardware/"
-image: assets/images/sumorobot-3D.png
+image: assets/img/sumorobot_3D.png
 ---
 
 We provide hardware consulting in three main areas:

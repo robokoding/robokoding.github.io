@@ -3,7 +3,7 @@ layout: landing
 title: Kits
 tagline: Do-it-Yourself Learning Experience
 description: We offer different self-assembly kits for enabling fun and interactive learning at home and encouraging the children to channel their creative potential into building their own inventions, toys and gadgets.
-image: assets/images/kit.jpg
+image: assets/img/sumorobot_kit.jpg
 permalink: "/kits/"
 ---
 

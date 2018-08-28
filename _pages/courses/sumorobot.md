@@ -2,7 +2,7 @@
 layout: page
 title: SumoRobot Course
 permalink: "/courses/sumorobot/"
-image: assets/images/course.jpg
+image: assets/img/sumorobot_workshop_2.jpg
 ---
 
 Through an applied approach, the children acquire skills in disciplines such as robotics, programming, electronics and mechanics.
@@ -28,4 +28,4 @@ Time frame: 9 sessions of 90 minutes.
 
 Book this course on [workshops@robokoding.com](#).
 
-![sumorobot-course](../../../assets/images/course.jpg)
+![sumorobot-course](/assets/img/sumorobot_workshop_2.jpg)

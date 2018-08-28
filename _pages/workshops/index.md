@@ -3,7 +3,7 @@ layout: landing
 title: Workshops
 tagline: Hands-on Learning Experience
 description: We conduct workshops to enable children to learn the basics of programming and robotics in an interdisciplinary fashion.
-image: assets/images/workshop.jpg
+image: assets/img/sumorobot_workshop_1.jpg
 permalink: "/workshops/"
 ---
 
