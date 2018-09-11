@@ -24,15 +24,22 @@ BUG: The holes for the big blue resistors are a bit too close together.
 
 Once the resistor(s) is(are) in place, try to hold it in place with your finger (or keep the SumoBoard pushed against the table) and turn the SumoBoard around to solder the resistor from the other side and cut the remainder of the resistor legs.
 
-![sumoboard](https://cdn.hackaday.io/images/1152311522069574072.jpg){:width="50%"}
+TIP: It's best to use some of the cut resistor legs and solder them to the solder jumpers for the plow. It will make the SumoRobot more durable in the end. Just solder them from one side, the other side will be soldered in a coming step.
+
+![sumoboard](/assets/img/sumoboard_jumper_connections.jpg){:width="50%"}
 
 TIP: For best soldering results preheat the resistor leg and the pad with the tip of the soldering iron few seconds before and then apply solder wire. Add enough solder wire to make a mountain around the resistor leg and then remove the solder wire and leave the solder iron tip for few seconds on the pad. Then remove the solder iron and you should have a nice shiny solder connection.
 
+![sumoboard](https://cdn.hackaday.io/images/1152311522069574072.jpg){:width="50%"}
+
 **2. Solder the capacitors**
 
-The 2 green cylinders are the capacitors. On one side of the capacitor body there is a yellow/brown side with stripes. The capacitor leg with the striped side goes into the SumoBoard hole which is surrounded by a white half circle under the C1 and C2 labels. Place the capacitor and solder them one by one.
+The 2 green cylinders are the capacitors. On one side of the capacitor body there is a yellow/brown side with stripes. The capacitor leg with the striped side goes into the SumoBoard hole which is surrounded by a white half circle under the C1 and C2 labels. Try to leave some space between the SumoBoard and the capacitor. So that the capacitor doesn't touch the SumoBoard. This makes one of the next steps easier. This is a bug and will be fixed in the next hardware version. See images below for 2 options how to place the capacitors.
 
-BUG: Try to leave some space between the SumoBoard and the capacitor. So that the capacitor doesn't touch the SumoBoard. This makes one of the coming steps easier. This is a bug and will be fixed in the next hardware version.
+![sumoboard](/assets/img/sumoboard_vertical_capacitor.jpg){:width="49%"}
+![sumoboard](/assets/img/sumoboard_horizontal_capacitor.jpg){:width="49%"}
+
+Finally however you placed the capacitors you can remove the zip ties.
 
 ![sumoboard](https://cdn.hackaday.io/images/9173631522070754725.jpg){:width="50%"}
 
@@ -50,8 +57,9 @@ The 2 pin headers for the Servos go to the holes with labels LEFT_SERVO and RIGH
 
 **5. Solder the push button**
 
-Put the push button in the SW1 labeled holes. The polarity is important again, check the sides of the button, they should match with the drawing on the SumoBoard. There are 2 rectangles and a single rectangle drawn on the SumoBoard, they should match with the ones on the push button.
+Put the push button in the SW1 labeled holes. The polarity is important again, check the sides of the button, they should match with the drawing on the SumoBoard. There are 2 rectangles and a single rectangle drawn on the SumoBoard, they should match with the ones on the push button. See the images below.
 
+![sumoboard](/assets/img/sumoboard_switch.jpg){:width="50%"}
 ![sumoboard](https://cdn.hackaday.io/images/9225151522081953208.jpg){:width="50%"}
 
 **6. Solder the LEDs**
@@ -75,7 +83,15 @@ Connect the power cable to the microcontroller and put the wires trough the hole
 
 **9. Place the Servomotors and the battery**
 
-First try to put the zip ties into the holes, above and below the LEFT_SERVO and RIGHT_SERVO rectangular markings. The zip ties are supposed to go diagonally across the Servomotors. Put the zip ties loosely just enough to lock them in place. The zip tie should go a little under the capacitors under the robot if possible.
+First cut the power cable into half. Leave around 5.5cm on the connector side and 6.5cm on the other side. See the image below.
+
+![sumoboard](/assets/img/sumoboard_battery_wire_cutting.jpg){:width="50%"}
+
+Then trim of the isolation from the cable ends and add some solder to them. Next prepare the battery, add some solder to the negative pad and to the positive. You have to peal of the isolation on the positive pad, the transparent one. Then solder the black wire to the golden negative plate and the positive to the silver looking positive strip. Keep in mind that heating the battery too much is not good, so it's best to solder the wires quickly. See the image below.
+
+![sumoboard](/assets/img/sumoboard_battery_wire_soldering.jpg){:width="50%"}
+
+Then try to put the zip ties into the holes, above and below the LEFT_SERVO and RIGHT_SERVO rectangular markings. The zip ties are supposed to go diagonally across the Servomotors. Put the zip ties loosely just enough to lock them in place. The zip tie should go a little under the capacitors under the robot if possible.
 
 After that place the Servomotors on SumoBoard on top of the labels LEFT_SERVO and RIGHT_SERVO. The gear that sticks out from the motor goes towards outside of the SumoBoard. The Servomotors cables should go towards the back of the robot, where the open source hardware logo is. Once the Servomotors are in place, put the battery on top of them so that the red wire is closer to the push button and then pull tight the zip ties and cut them.
 
