@@ -8,7 +8,7 @@ Access the SumoRobot programming interface [here](http://sumo.robokoding.com).
 
 ## Control panel
 
-Below is how the control panel looks like for the SumoInterface. Here you can add our SumoRobot ID that you can find in the SumoManager. It is a 8 character unique identifier for your SumoRobot. Once having entered the SumoRobot ID press GO! or hit the enter key on the keyboard. To come back to the control panel or close it, you can use the keyboard combination Alt + C.
+Below is how the control panel looks like for the SumoInterface. Here you can add our SumoRobot ID that you can find in the SumoManager app when you connect your SumoRobot with the micro USB cable. It is a 8 character unique identifier for your SumoRobot. Once having entered the SumoRobot ID press GO! or hit the enter key on the keyboard. To come back to the control panel or close it, you can use the keyboard combination Alt + C.
 
 ![control_panel](/assets/img/sumorobot_interface_control_panel.png)
 
