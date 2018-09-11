@@ -45,7 +45,11 @@ Finally however you placed the capacitors you can remove the zip ties.
 
 **3. Solder the phototransistors**
 
-The phototransistors are the dark blue and black LED combined with the black chassis. Here again the polarity is important, so mind the white drawing on the SumoBoard to see which way they go to the holes of D1, D2, D3, D4. The cut corners of the phototransistor go towards the edge of  the SumoBoard, so that the dark blue LED is closer to the edge of the SumoBoard. Solder the phototransistors one by one.
+The phototransistors are the dark blue and black LED combined with the black chassis. Here again the polarity is important, so mind the white drawing on the SumoBoard to see which way they go to the holes of D1, D2, D3, D4. The cut corners of the phototransistor black case go towards the edge of the SumoBoard, so that the dark blue LED is closer to the edge of the SumoBoard. When you have figured out which way they go then you have to bend the legs 90 degrees. Like seen on the image below.
+
+![sumoboard](/assets/img/sumoboard_line_sensor.jpg){:width="50%"}
+
+Finally place and solder the phototransistors one by one.
 
 ![sumoboard](https://cdn.hackaday.io/images/7325461522075884330.jpg){:width="50%"}
 
@@ -118,7 +122,7 @@ Put in the bolts and screw them together with the nuts tight so that the pads un
 
 **11. Solder the ultrasonic sensor**
 
-Remove the microcontroller from the bottom of the robot and place the ultrasonic sensor in the holes labeled J3. Push in the ultrasonic sensor until it touches the heads of the bolts and solder it into place. Finally unscrew the screws from the Servomotors and place the wheels and screw back the screws to fixate the wheels.
+Remove the microcontroller from the bottom of the robot and place the ultrasonic sensor in the holes labeled J3. Push in the ultrasonic sensor until it touches the heads of the bolts and solder it into place. Finally find the black screws in the bags where the motors were. Place the wheels and screw the black screws to fixate the wheels.
 
 ![sumoboard](https://cdn.hackaday.io/images/79381522087248734.jpg){:width="50%"}
 
