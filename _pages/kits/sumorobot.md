@@ -5,20 +5,20 @@ image: assets/img/sumorobot_kit.jpg
 permalink: "/kits/sumorobot/"
 ---
 
-SumoRobots are an amazing way to learn the basics of programming and robotics in a home learning environment. Using the kit's step-by-step instructions, the children will be able to build their own SumoRobot. The kit consists of all the necessary parts to build the SumoRobot. The only things you need are: soldering iron, soldering wire, screwdriver, scissors and a micro USB cable for charging and updating the SumoRobot. We strongly advise the assembly process to be guided or supervised by a person who feels comfortable using the listed tools.
+SumoRobots are an amazing way to learn the basics of programming and robotics in a home learning environment. Using the kit's step-by-step instructions, the children will be able to build their own SumoRobot. The kit consists of all the necessary parts to build the SumoRobot. Additional necessary tools you need to already have are: soldering iron, soldering wire, screwdriver, wire cutters and a micro USB cable (updates and charging). We strongly advise the assembly process to be guided or supervised by a person who feels comfortable using the listed tools.
 
 The hardware and software of the SumoRobot kit are open-source, you can find everything on [GitHub](https://github.com/robokoding).
 
-The assembled SumoRobot can be programmed over the browser using a graphical programming interface or Python code. You can order the SumoRobot kit on [Tindie](https://www.tindie.com/stores/robokoding/) or order it on [kits@robokoding.com](#).
-
-[![I sell on Tindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png)](https://www.tindie.com/stores/robokoding/?ref=offsite_badges&utm_source=sellers_robokoding&utm_medium=badges&utm_campaign=badge_small)
-
-Price: €55 ($68)  
-Recommended age: 10+
+The assembled SumoRobot can be programmed over the browser using a graphical programming interface or Python code. You can pre-order the SumoRobot kit by contacting [kits@robokoding.com](#).
 
 1. Once you have received your SumoRobot kit head over to assembly instructions [here](/kits/sumorobot/sumohardware).  
 2. Once you have assembled your SumoRobot head over to download SumoManager [here](/kits/sumorobot/sumomanager).  
 3. Once you have updated the firmware and added your WiFi network head [here](/kits/sumorobot/sumointerface).  
 4. Finally you can print your own SumoField on A0 paper in a local print store, download it [here](/assets/docs/sumofield.pdf).
+
+[![I sell on Tindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-mediums.png)](https://www.tindie.com/stores/robokoding/?ref=offsite_badges&utm_source=sellers_robokoding&utm_medium=badges&utm_campaign=badge_small)
+
+Price: €55 ($68)  
+Recommended age: 10+
 
 ![kit](/assets/img/sumorobot_kit.jpg)
