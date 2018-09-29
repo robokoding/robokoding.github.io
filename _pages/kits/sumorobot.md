@@ -9,7 +9,7 @@ SumoRobots are an amazing way to learn the basics of programming and robotics in
 
 The hardware and software of the SumoRobot kit are open-source, you can find everything on [GitHub](https://github.com/robokoding).
 
-The assembled SumoRobot can be programmed over the browser using a graphical programming interface or Python code. You can pre-order the SumoRobot kit by contacting [kits@robokoding.com](#).
+The assembled SumoRobot can be programmed over the browser using a graphical programming interface or Python code. You can pre-order the SumoRobot kit at [kits@robokoding.com](#).
 
 1. Once you have received your SumoRobot kit head over to assembly instructions [here](/kits/sumorobot/sumohardware).  
 2. Once you have assembled your SumoRobot head over to download SumoManager [here](/kits/sumorobot/sumomanager).  
