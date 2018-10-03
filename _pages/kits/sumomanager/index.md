@@ -7,8 +7,8 @@ permalink: "/kits/sumorobot/sumomanager/"
 ## Download SumoManager
 Choose your operating system
 
-<a href="https://github.com/robokoding/sumomanager-desktop/releases/download/v0.3/SumoManager.deb" class="icon alt fa-linux"></a>
-<a href="https://github.com/robokoding/sumomanager-desktop/releases/download/v0.5/SumoManager.dmg" class="icon alt fa-apple"></a>
+<a href="https://github.com/robokoding/sumomanager-desktop/releases/download/v0.6.1/SumoManager.deb" class="icon alt fa-linux"></a>
+<a href="https://github.com/robokoding/sumomanager-desktop/releases/download/v0.6.1/SumoManager.dmg" class="icon alt fa-apple"></a>
 <a href="https://github.com/robokoding/sumomanager-desktop/releases/download/v0.5/SumoManager.exe" class="icon alt fa-windows"></a>
 
 ## Download Driver
