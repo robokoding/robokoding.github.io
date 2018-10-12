@@ -18,6 +18,12 @@ can successfully communicate with the SumoRobot.
 <a href="https://wiki.wemos.cc/_media/ch341ser_mac-1.4.zip" class="icon alt fa-apple"></a>
 <a href="https://wiki.wemos.cc/_media/file:ch341ser_win.zip" class="icon alt fa-windows"></a>
 
+## Add permissions
+Additionally on Linux you need to add user permissions to communicate with the robot. Use this line in the terminal and log out and in again or try a reboot.
+```bash
+sudo adduser second_user dialout
+```
+
 ## Connecting the SumoRobot
 Once you have your SumoRobot assembled you will need to upload it's software  
 (SumoFirmware) on it. This can be done with the SumoManager, you can download it above.  
