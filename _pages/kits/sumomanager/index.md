@@ -19,9 +19,9 @@ can successfully communicate with the SumoRobot.
 <a href="https://wiki.wemos.cc/_media/file:ch341ser_win.zip" class="icon alt fa-windows"></a>
 
 ## Add permissions
-Additionally on Linux you need to add user permissions to communicate with the robot. Use this line in the terminal and log out and in again or try a reboot.
+Additionally on Linux you need to add user permissions to communicate with the robot. Replace the <username> with your username and use the following line in the terminal. Then log out and in again or try a reboot.
 ```bash
-sudo adduser second_user dialout
+sudo adduser <username> dialout
 ```
 
 ## Connecting the SumoRobot
