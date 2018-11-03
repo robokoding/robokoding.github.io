@@ -10,8 +10,7 @@ permalink: "/kits/"
 <!-- Two -->
 <section id="two" class="spotlights">
 	{% for kit in site.pages %}
-  {% if kit.layout == "page" and kit.path contains "/kits/" %}
-	{% unless kit.path contains "index" %}
+	{% if kit.layout == "page" and kit.path contains "/kits/" and kit.title contains "Kit" %}
 	<section>
 		<a href="{{ kit.permalink | absolute_url }}" class="image">
 			<img src="{{ kit.image | absolute_url }}" alt="thumbnail" data-position="center center" />
@@ -28,7 +27,6 @@ permalink: "/kits/"
 			</div>
 		</div>
 	</section>
-	{% endunless %}
 	{% endif %}
 	{% endfor %}
 </section>
