@@ -21,4 +21,4 @@ Recommended age: 10+
 
 [![I sell on tindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/stores/robokoding/?ref=offsite_badges&utm_source=sellers_robokoding&utm_medium=badges&utm_campaign=badge_small)
 
-![kit](/assets/img/sumorobot_kit.jpg)
+![kit](/assets/img/v031/parts.jpg)
