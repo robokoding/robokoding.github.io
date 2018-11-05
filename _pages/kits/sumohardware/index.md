@@ -10,7 +10,7 @@ Thank you for purchising the SumoRobot kit. We are sure that you will have a lot
 
 You are about to assemble your very own SumoRobot. In front of you is the SumoRobot kit, consisted of 33 carefully selected parts and a custom design PCB. Make sure you have all the equipment needed and that you have taken all the precautions. If this is your first encounter with assembly and soldering, we strongly reccomend that you ask for help or do it under supervision of an experienced maker. 
 
-The tools that are essential for the assembly proccess are: a working surface, a set for soldering (soldering iron, solder spool and solder tip cleaner), pliers and a wire cutter/or scissors. Further safety measures would include the use of the following tools: lead-free solder, mask or a smoke absorber, soldering clamps or tweezers, cut and heat resistant gloves and safety goggles.
+The tools that are essential for the assembly process are: a working surface, a set for soldering (soldering iron, solder spool and solder tip cleaner), pliers and a wire cutter/or scissors. Further safety measures would include the use of the following tools: lead-free solder, mask or a smoke absorber, soldering clamps or tweezers, cut and heat resistant gloves and safety goggles.
 
 Now you are all set to move along and follow our step-by-step assembly guide. Happy soldering, you'll do great!
 
