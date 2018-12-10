@@ -16,8 +16,8 @@ Now you are all set to move along and follow our step-by-step assembly guide. Ha
 
 ## Assembly instructions v0.2.X
 
-[![sumorobot](https://cdn.hackaday.io/images/79381522087248734.jpg){:width="50%"}](/kits/sumorobot/sumohardware/v021)
+[![sumorobot](https://cdn.hackaday.io/images/79381522087248734.jpg){:width="50%"}](/kits/sumorobot/sumohardware/v02X)
 
 ## Assembly instructions v0.3.X
 
-[![parts](/assets/img/v031/parts.jpg){:width="50%"}](/kits/sumorobot/sumohardware/v031)
+[![parts](/assets/img/v031/parts.jpg){:width="50%"}](/kits/sumorobot/sumohardware/v03X)
