@@ -7,10 +7,10 @@ permalink: "/kits/sumorobot/"
 
 SumoRobots are an amazing way to learn the basics of programming and robotics in a home learning environment. Using the kit's step-by-step instructions, the children will be able to build their own SumoRobot. The kit consists of all the necessary parts to build the SumoRobot. Additional necessary tools you need to already have are: soldering iron, soldering wire, screwdriver, wire cutters and a micro USB cable (updates and charging). We strongly advise the assembly process to be guided or supervised by a person who feels comfortable using the listed tools.
 
-1. Once you have received your SumoRobot kit head over to assembly instructions [here](/kits/sumorobot/sumohardware).  
-2. Once you have assembled your SumoRobot head over to download SumoManager [here](/kits/sumorobot/sumomanager).  
-3. Once you have updated the firmware and added your WiFi network head [here](/kits/sumorobot/sumointerface).  
-4. Finally you can print your own SumoField on A0 paper in a local print store, download it [here](/assets/docs/sumofield.pdf).
+1. Once you have received your SumoRobot kit head over to [SumoHardware](/kits/sumorobot/sumohardware).  
+2. Once you have assembled your SumoRobot head over to [SumoManager](/kits/sumorobot/sumomanager).  
+3. Once you have updated the SumoFirmware and added your WiFi network head over to [SumoInterface](/kits/sumorobot/sumointerface).  
+4. Finally in a local print shop, on a A0, you can print your own [SumoField](/assets/docs/sumofield.pdf).
 
 The hardware and software of the SumoRobot kit are open-source, you can find everything on [GitHub](https://github.com/robokoding). You can pre-order the SumoRobot kit at [kits@robokoding.com](#).
 
