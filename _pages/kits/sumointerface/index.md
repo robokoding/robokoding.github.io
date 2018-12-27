@@ -29,7 +29,7 @@ opponent (blue) logic block is used for the frontal ditance sensor to detect oth
 
 line (yelow) logic block is used for the 2 line sensors below the robot, left and right. Use it together with the if_do (green) block. Notice also the yellow LEDs on the robot reacting when you lift or place the robot on the ground.
 
-Hold the Alt key in combination with different keys to enable different feature in the interface:  
+Hold the Alt key in combination with different keys to enable different feature in the interface:
 * alt + p = MicroPython mode
 * alt + l = Livestream mode
 * alt + t = to calibrate the line sensors
