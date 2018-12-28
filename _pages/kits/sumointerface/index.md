@@ -30,10 +30,48 @@ opponent (blue) logic block is used for the frontal ditance sensor to detect oth
 line (yelow) logic block is used for the 2 line sensors below the robot, left and right. Use it together with the if_do (green) block. Notice also the yellow LEDs on the robot reacting when you lift or place the robot on the ground.
 
 Hold the Alt key in combination with different keys to enable different feature in the interface:
-* alt + p = MicroPython mode
-* alt + l = Livestream mode
-* alt + t = to calibrate the line sensors
+* alt + p = MicroPython mode (see further below)
+* alt + l = Livestream mode (this feature we use for live programming sessions)
+* alt + t = to calibrate the line sensors (see below)
 * alt + arrow keys = to drive the robot around
 * alt + c = show control panel, to change the connected robot
 
+For line calibration place the robot on the white surface of the SumoField (can be also black, if the field is inverted colors). Then press alt + t, the robot will read the current brightness of the surface and remember it. It will use that value to differenciate that to other values it observes over time. In case it sees something trastically different, it will recognize that as the line and switch on the yellow LED (check both, left and right sensor). Furthermore the threshold value can be adjusted if the black colored line is not trastically different from the white part of the SumoField. When pressing alt + t in the additional popup the threshold can be adjusted. Lower the value, let go of the slider and see if the SumoRobot starts to recognize the line by checking the yellow LED (check both, left and right sensor). Be sure that the SumoRobot sees the line around the whole SumoField by dragging it around (check both, left and right sensor). Once that is done, the DONE can be pressed in the popup. Finally you have managed to calibrate the line sensors, great job!
+
 ![control_panel](/assets/img/sumorobot_interface_blockly.png)
+
+## MicroPython interface
+
+Press alt + p for entering the MicroPython mode. Here you can program the SumoRobot with using MicroPython code, a minified version of Python3. So you can import libraries, use variables, classes, definitions like usual to Python. The functions that are specific to the SumoRobot are explained below.
+
+**sumorobot.move(LEFT)**  
+This will move the robot to different directions, use LEFT, RIGHT, FORWARD, BACKWARD or SEARCH. SEARCH is a function that helps to find the other robot during the SumoMatch. It will rotate the robot for a while and then make it drive a bit forward. Try it out!
+
+**sumorobot.sleep(1000)**  
+This will make the robot move in a direction for a certain time in case used together with multiple moves and sleeps. Use sleep after each move. Then also adjust the delay value which is in milliseconds, a 1000 milliseconds is 1 second.
+
+**sumorobot.is_opponent()**  
+This will return if the SumoRobot sees something in front of it or not. It is mainly used to detect the other opponent SumoRobot on the SumoField, but it can be used also to see any other objects in front of the SumoRobot. The SumoRobot is set by default to see 40cm. Use this in combination with a if, else clause and move command.
+
+**sumorobot.is_line(LEFT)**  
+This will return if the SumoRobot sees a line under the LEFT or RIGHT sensor. Therefore you can use LEFT or RIGHT with this command. Use it together with a if, else cluase and a move command.
+
+**sumorobot.set_servo(LEFT, 100)**  
+This will set the speed for a single servo motor. Use LEFT or RIGHT and values between -100 to 100. The negative values are for one direction and the positive values for the opposite direction.
+
+**sumorobot.get_opponent_distance()**  
+This will return the distance value of the ultrasonic sensor that is in front of the robot in centimeters. Use this to see objects even futher away or react to objects that are closer to the SumoRobot. Use it in a if, else clause to compare it with different values. The returned value will be 0 to 200.
+
+**sumorobot.get_line(LEFT)**  
+This will return the brightness value from the line sensors, will be a value between 0 to 4096. Use it in a if, else caluse to compare it with different values, it might be possible to detect different colors.
+
+**sumorobot.get_battery_voltage(LEFT)**  
+This will return the battery voltage of the SumoRobot, it will be a value between 3.0 to 4.2. Use it in a if, else caluse to compare it with different values, to detect how empty or full the battery is. This can be used for charging indication or other purposes.
+
+**sumorobot.calibrate_line_value()**  
+This will set the line value to the current one the robot is seeing with both sensors. So it's best to place the robot to the white area of the SumoField or on a surface where it should not recognize a line.
+
+**sumorobot.calibrate_line_threshold(1000)**  
+This will set the threshold for the line sensors, meaning how big the brightness difference is between the white area and line. Change the value between 5 - 1000, it might be able to detect different colors.
+
+![control_panel](/assets/img/sumorobot_python_code.png)
