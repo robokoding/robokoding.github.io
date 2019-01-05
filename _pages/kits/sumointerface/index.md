@@ -29,12 +29,16 @@ opponent (blue) logic block is used for the frontal ditance sensor to detect oth
 
 line (yelow) logic block is used for the 2 line sensors below the robot, left and right. Use it together with the if_do (green) block. Notice also the yellow LEDs on the robot reacting when you lift or place the robot on the ground.
 
+## Hotkeys
+
 Hold the Alt key in combination with different keys to enable different feature in the interface:
 * alt + p = MicroPython mode (see further below)
 * alt + l = Livestream mode (this feature we use for live programming sessions)
 * alt + t = to calibrate the line sensors (see below)
 * alt + arrow keys = to drive the robot around
 * alt + c = show control panel, to change the connected robot
+
+## Line calibration
 
 For line calibration place the robot on the white surface of the SumoField (can be also black, if the field is inverted colors). Then press alt + t, the robot will read the current brightness of the surface and remember it. It will use that value to differenciate that to other values it observes over time. In case it sees something trastically different, it will recognize that as the line and switch on the yellow LED (check both, left and right sensor). Furthermore the threshold value can be adjusted if the black colored line is not trastically different from the white part of the SumoField. When pressing alt + t in the additional popup the threshold can be adjusted. Lower the value, let go of the slider and see if the SumoRobot starts to recognize the line by checking the yellow LED (check both, left and right sensor). Be sure that the SumoRobot sees the line around the whole SumoField by dragging it around (check both, left and right sensor). Once that is done, the DONE can be pressed in the popup. Finally you have managed to calibrate the line sensors, great job!
 
@@ -58,6 +62,9 @@ This will return if the SumoRobot sees a line under the LEFT or RIGHT sensor. Th
 
 **sumorobot.set_servo(LEFT, 100)**  
 This will set the speed for a single servo motor. Use LEFT or RIGHT and values between -100 to 100. The negative values are for one direction and the positive values for the opposite direction.
+
+**sumorobot.set_led(STATUS, False)**  
+This will set the states of STAUTS, LEFT_LINE, RIGHT_LINE and OPPONENT LEDs. Use False or True. Currently the LEFT_LINE, RIGHT_LINE and OPPONENT LED will be overwritten by the feedback code, that shows if the SumoRobot sees a line or opponent.
 
 **sumorobot.get_opponent_distance()**  
 This will return the distance value of the ultrasonic sensor that is in front of the robot in centimeters. Use this to see objects even futher away or react to objects that are closer to the SumoRobot. Use it in a if, else clause to compare it with different values. The returned value will be 0 to 200.
