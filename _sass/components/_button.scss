@@ -9,7 +9,7 @@
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
-	div a[role="button"],
+	div[class="cc-compliance"] a[role="button"],
 	button,
 	.button {
 		@include vendor('appearance', 'none');
