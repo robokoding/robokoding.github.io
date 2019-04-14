@@ -17,4 +17,4 @@ We are building our own custom hardware solutions for educational purposes and w
 Consulting price: €50/h  
 Development price: €75/h
 
-Contact us on [consulting@robokoding.com](#).
+Contact us on [letscode@robokoding.com](#).
