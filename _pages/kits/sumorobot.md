@@ -12,7 +12,7 @@ SumoRobots are an amazing way to learn the basics of programming and robotics in
 3. Once you have updated the SumoFirmware and added your WiFi network head over to [SumoInterface](/kits/sumorobot/sumointerface).  
 4. Finally in a local print shop, on a A0, you can print your own [SumoField](/assets/docs/sumofield.pdf).
 
-The hardware and software of the SumoRobot kit are open-source, you can find everything on [GitHub](https://github.com/robokoding). You can pre-order the SumoRobot kit at [billing@robokoding.com](#). Send your billing, shipping address, contact details, how many robots you want and we will send you back an invoice.
+The hardware and software of the SumoRobot kit are open-source, you can find everything on [GitHub](https://github.com/robokoding). You can pre-order the SumoRobot kit at [letscode@robokoding.com](#). Send your billing / shipping address, contact details, how many robots you want and we will send you back an invoice.
 
 Price: <span style="color:#28a745;">€55</span> <span style="color:#dc3545;">~~€62~~</span>  
 Recommended age: 10+
