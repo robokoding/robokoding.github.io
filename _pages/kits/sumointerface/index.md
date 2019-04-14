@@ -86,5 +86,5 @@ This will set the threshold for the line sensors, meaning how big the brightness
 
 ## Debugging problems
 
-In case you are facing some problems with the SumoRobot you can contact [support@robokoding.com](#)
+In case you are facing some problems with the SumoRobot you can contact [letstalk@robokoding.com](#)
 In case you are interested to debug problems yourself you can head over to [GitHub](https://github.com/robokoding) to find all the design files and software.
