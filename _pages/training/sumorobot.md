@@ -20,4 +20,4 @@ Besides the technical skill, the training will focus on different learning aspec
 Price: €1100  
 Time frame: 9 sessions of 90 minutes.
 
-Book this training on [training@robokoding.com](#).
+Book this training on [letscode@robokoding.com](#).
