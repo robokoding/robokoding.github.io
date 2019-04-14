@@ -17,6 +17,6 @@ Participants: 4-15
 Reccommended age: 7+  
 Time frame: 90 minutes
 
-Book this workshop on [workshops@robokoding.com](#).
+Book this workshop on [letscode@robokoding.com](#).
 
 ![sumorobot-workshop](/assets/img/sumorobot_workshop_1.jpg)
