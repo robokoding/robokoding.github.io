@@ -48,3 +48,8 @@ name from the list and enter the network password in the field below. Finally cl
 on the **Add WiFi network** button. You can also add more networks, so you can use it  
 in several locations.  
 ![sumomanager](/assets/img/sumomanager_add_wifi.png)
+
+## Debugging problems
+
+In case you are facing some problems with the SumoRobot you can contact [letstalk@robokoding.com](#)
+In case you are interested to debug problems yourself you can head over to [GitHub](https://github.com/robokoding) to find all the design files and software.
