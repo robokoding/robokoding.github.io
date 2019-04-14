@@ -15,7 +15,11 @@ Below is how the control panel looks like for the SumoInterface. Here you can ad
 
 ## Blockly interface
 
-Once the SumoInterface is connected to the SumoRobot you can see the battery icon (up right corner) red, orange or green. This shows the battery charge status of your SumoRobot. Red means that the battery is pretty empty and it should be charged as soon as possible. Your SumoRobot can randomly reset at times when it has low battery. When your SumoRobot is not connected or disconnects from the SumoInterface the battery icon will be with a red cross. Then you can try to reset your SumoRobot by pressing the RESET button underneath the SumoRobot next to he micro USB port.
+![battery_disconnected](/assets/img/sumorobot/sumointerface/battery_disconnected.png)
+![battery_empty_charging](/assets/img/sumorobot/sumointerface/battery_empty_charging.png)
+![battery_half](/assets/img/sumorobot/sumointerface/battery_half.png)
+![battery_full_charging](/assets/img/sumorobot/sumointerface/battery_full_charging.png)  
+Once the SumoInterface is connected to the SumoRobot you can see the battery icon (up right corner) red, orange or green. This shows the battery charge status of your SumoRobot. Red means that the battery is pretty empty and it should be charged as soon as possible. Your SumoRobot can randomly reset at times when it has low battery. When your SumoRobot is not connected or disconnects from the SumoInterface the battery icon will be with a red cross. Then you can try to reset your SumoRobot by pressing the RESET button underneath the SumoRobot next to he micro USB port. The lightning icon works on SumoBoard v0.4.0 and higher and indicates if the micro USB cable is connected to the SumoRobot to charge the battery.
 
 To program your SumoRobot move available blocks from the left toolbox (gray) to the right workspace (white) (see on the image below). You can delete code by dragging it to the trash bin or to the the left toolbox (gray). You can also observe the Python code on the right that is created using the blocks. Once **Start** is pressed the Python code on the right gets uploaded to the SumoRobot and the block highlight (bright) and Python code highlight (yellow) starts to work (see on the image below). The highlight shows how the SumoRobot is executing the code that you have made. The code is executed in a loop (unlimited times) from top to bottom.
 
