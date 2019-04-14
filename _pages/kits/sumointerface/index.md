@@ -41,8 +41,11 @@ Hold the Alt key in combination with different keys to enable different feature 
 * alt + p = MicroPython mode (see further below)
 * alt + l = Livestream mode (this feature we use for live programming sessions)
 * alt + t = to calibrate the line sensors (see below)
-* alt + arrow keys = to drive the robot around
-* alt + c = show control panel, to change the connected robot
+* alt + arrow keys = to drive the SumoRobot around
+* alt + c = show control panel (to change or see the name of the connected SumoRobot)
+* alt + u = fetches the last uploaded code from the SumoRobot (in case multiple users are programming one robot)
+* alt + o = disable or enable the loop execution of the code in the SumoRobot (your program will only execute once)
+* alt + f = disable or enable the LED feedback loop on the SumoRobot (allows to use LEDs in MicroPython mode)
 
 ## Line calibration
 
