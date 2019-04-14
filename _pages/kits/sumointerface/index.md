@@ -83,3 +83,8 @@ This will set the line value to the current one the robot is seeing with both se
 This will set the threshold for the line sensors, meaning how big the brightness difference is between the white area and line. Change the value between 5 - 1000, it might be able to detect different colors.
 
 ![control_panel](/assets/img/sumorobot_python_code.png)
+
+## Debugging problems
+
+In case you are facing some problems with the SumoRobot you can contact [support@robokoding.com](#)
+In case you are interested to debug problems yourself you can head over to [GitHub](https://github.com/robokoding) to find all the design files and software.
