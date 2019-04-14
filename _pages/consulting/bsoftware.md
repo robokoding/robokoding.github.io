@@ -15,4 +15,4 @@ We are developing our own custom software solutions for educational purposes and
 Consulting price: €50/h  
 Development price: €75/h
 
-Contact us on [consulting@robokoding.com](#).
+Contact us on [letscode@robokoding.com](#).
