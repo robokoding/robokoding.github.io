@@ -12,6 +12,6 @@ The Lab can be used for conducting distance learning workshops or as a brief enc
 Price: €75/h  
 Recommended age: 7+
 
-To find out more contact us on [remotelabs@robokoding.com](#).
+To find out more contact us on [letscode@robokoding.com](#).
 
 ![sumorobot-remotelab](/assets/img/sumorobot_remotelab.jpg)
