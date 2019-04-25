@@ -34,7 +34,7 @@ The move control block is used to move the robot in different directions. Use it
 The sleep control block is used to add sleep into the program. It is usually used in combination with the move (red) blocks to program a sequence of movements. The sleep command makes the robot wait until it moves on to the next direction / instruction.
 
 ![opponent](/assets/img/sumorobot/sumointerface/opponent.png)  
-The opponent logic block is used for the frontal ditance sensor to detect other "opponent" robots or objects in front of the SumoRobot. Use it together with the if_do (green) block. Notice also the blue LED on the robot reacting to your hand in front of it.
+The opponent logic block is used for the frontal distance sensor to detect other "opponent" robots or objects in front of the SumoRobot. Use it together with the if_do (green) block. Notice also the blue LED on the robot reacting to your hand in front of it.
 
 ![line](/assets/img/sumorobot/sumointerface/line.png)  
 The line logic block is used for the 2 line sensors below the robot, left and right. Use it together with the if_do (green) block. Notice also the yellow LEDs on the robot reacting when you lift or place the robot on the ground.
@@ -71,22 +71,22 @@ This will make the robot move in a direction for a certain time in case used tog
 This will return if the SumoRobot sees something in front of it or not. It is mainly used to detect the other opponent SumoRobot on the SumoField, but it can be used also to see any other objects in front of the SumoRobot. The SumoRobot is set by default to see 40cm. Use this in combination with a if, else clause and move command.
 
 **sumorobot.is_line(LEFT)**  
-This will return if the SumoRobot sees a line under the LEFT or RIGHT sensor. Therefore you can use LEFT or RIGHT with this command. Use it together with a if, else cluase and a move command.
+This will return if the SumoRobot sees a line under the LEFT or RIGHT sensor. Therefore you can use LEFT or RIGHT with this command. Use it together with a if, else clause and a move command.
 
 **sumorobot.set_servo(LEFT, 100)**  
 This will set the speed for a single servo motor. Use LEFT or RIGHT and values between -100 to 100. The negative values are for one direction and the positive values for the opposite direction.
 
 **sumorobot.set_led(STATUS, False)**  
-This will set the states of STAUTS, LEFT_LINE, RIGHT_LINE and OPPONENT LEDs. Use False or True. Currently the LEFT_LINE, RIGHT_LINE and OPPONENT LED will be overwritten by the feedback code, that shows if the SumoRobot sees a line or opponent.
+This will set the states of STATUS, LEFT_LINE, RIGHT_LINE and OPPONENT LEDs. Use False or True. Currently the LEFT_LINE, RIGHT_LINE and OPPONENT LED will be overwritten by the feedback code, that shows if the SumoRobot sees a line or opponent.
 
 **sumorobot.get_opponent_distance()**  
 This will return the distance value of the ultrasonic sensor that is in front of the robot in centimeters. Use this to see objects even futher away or react to objects that are closer to the SumoRobot. Use it in a if, else clause to compare it with different values. The returned value will be 0 to 200.
 
 **sumorobot.get_line(LEFT)**  
-This will return the brightness value from the line sensors, will be a value between 0 to 4096. Use it in a if, else caluse to compare it with different values, it might be possible to detect different colors.
+This will return the brightness value from the line sensors, will be a value between 0 to 4096. Use it in a if, else clause to compare it with different values, it might be possible to detect different colors.
 
-**sumorobot.get_battery_voltage(LEFT)**  
-This will return the battery voltage of the SumoRobot, it will be a value between 3.0 to 4.2. Use it in a if, else caluse to compare it with different values, to detect how empty or full the battery is. This can be used for charging indication or other purposes.
+**sumorobot.get_battery_voltage()**  
+This will return the battery voltage of the SumoRobot, it will be a value between 3.0 to 4.2. Use it in a if, else clause to compare it with different values, to detect how empty or full the battery is. This can be used for charging indication or other purposes.
 
 **sumorobot.calibrate_line_value()**  
 This will set the line value to the current one the robot is seeing with both sensors. So it's best to place the robot to the white area of the SumoField or on a surface where it should not recognize a line.
