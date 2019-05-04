@@ -39,19 +39,18 @@ The opponent logic block is used for the frontal ditance sensor to detect other 
 ![line](/assets/img/sumorobot/sumointerface/line.png)  
 The line logic block is used for the 2 line sensors below the SumoRobot, left and right. Use it together with the if_do (green) block. Notice also the yellow LEDs on the SumoRobot reacting when you lift or place the SumoRobot on the ground.
 
-![line](/assets/img/sumorobot/sumointerface/servo.png)  
+![servo](/assets/img/sumorobot/sumointerface/servo.png)  
 The servo control block is used to move the SumoRobots left or right servo with different speeds. First select the left or right servo and then add the speed from -100 to 100. The number specifies the speed and direction. It usually is used in combination with the sleep (orange) block.
 
-![line](/assets/img/sumorobot/sumointerface/led.png)  
+![led](/assets/img/sumorobot/sumointerface/led.png)  
 The led control block is used to turn ON or OFF the SumoRobot LEDs. Choose the LED you want to turn ON or OFF. Try using it together with the if_do (green) block or the sleep (orange).
 
-![line](/assets/img/sumorobot/sumointerface/opponent_distance.png)  
+![opponent_distance](/assets/img/sumorobot/sumointerface/opponent_distance.png)  
 The opponent with distance logic block is used for defining a distance the SumoRobot can detect object in front of it. You can choose numbers between 1 - 200. Use it together with the if_do (green) block. Notice also the blue LED on the SumoRobot reacting to your hand in front of it. Keep in mind that the distance the SumoRobots blue LED reacts to objects is fixed to a different value.
 
 ## Hotkeys
 
 Hold the Alt key in combination with different keys to enable different feature in the interface:
-* alt + e = enable additional Blockly blocks
 * alt + p = MicroPython mode (see further below)
 * alt + l = Livestream mode (this feature we use for live programming sessions)
 * alt + t = to calibrate the line sensors (see below)
