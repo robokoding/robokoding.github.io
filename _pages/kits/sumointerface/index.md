@@ -5,7 +5,7 @@ permalink: "/kits/sumorobot/sumointerface/"
 ---
 
 Access the SumoRobot Programming Interface [here](http://sumo.robokoding.com).  
-The source code of the SumoRobot Programming Interface lies [here](https://github.com/silbo/silbo.github.io).
+The source code of the SumoRobot Programming Interface lies [here](https://github.com/robokoding/sumorobot-interface).
 
 ## Control panel
 
