@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SumoRobot Kit
-image: assets/img/v031/parts.jpg
+image: /assets/img/v04X/parts.jpg
 permalink: "/kits/sumorobot/"
 ---
 
