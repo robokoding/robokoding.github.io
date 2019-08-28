@@ -9,7 +9,7 @@ Choose your operating system
 
 <a href="https://github.com/robokoding/sumorobot-manager/releases/latest/download/SumoManager.deb" class="icon alt fa-linux"></a>
 <a href="https://github.com/robokoding/sumorobot-manager/releases/latest/download/SumoManager.dmg" class="icon alt fa-apple"></a>
-<a href="https://github.com/robokoding/sumorobot-manager" class="icon alt fa-windows"></a>
+<a href="https://github.com/robokoding/sumorobot-manager/releases/latest/download/SumoManager.exe" class="icon alt fa-windows"></a>
 
 ## Download Driver
 Additionally on Windows and MAC OS you will need a driver software so your computer  
