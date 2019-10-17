@@ -4,12 +4,12 @@ title: SumoInterface
 permalink: "/kits/sumorobot/sumointerface/"
 ---
 
-Access the SumoInterface [here](http://sumo.robokoding.com).  
-The source code of the SumoInterface lies [here](https://github.com/robokoding/sumorobot-interface).
+The link to the SumoInterface: [sumo.robokoding.com](http://sumo.robokoding.com).  
+The link to the source code of the SumoInterface: [https://github.com/robokoding/sumorobot-interface](https://github.com/robokoding/sumorobot-interface).
 
 ## Control panel
 
-The SumoInterface works best on chrome or chromium as it uses Web Bluetooth which is still not fully supported across browsers. Under linux you might have to enable this feature manually under this URL [chrome://flags#enable-experimental-web-platform-features](chrome://flags#enable-experimental-web-platform-features).
+The SumoInterface works best on chrome or chromium as it uses Web Bluetooth which is still not fully supported across browsers. You might have to enable the bluetooth feature manually by going to [chrome://flags#enable-experimental-web-platform-features](chrome://flags#enable-experimental-web-platform-features) and [chrome://flags#enable-web-authentication-ble-support](chrome://flags#enable-web-authentication-ble-support). Finally restart your browser.
 
 Below the control panel of the SumoInterface. Turn on your SumoRobot and hit GO! it should pop up a window with bluetooth device that it found. You should be able to see a device called SumoRobot.
 
