@@ -13,7 +13,7 @@ The SumoInterface works best on chrome or chromium as it uses Web Bluetooth whic
 
 Below the control panel of the SumoInterface. Turn on your SumoRobot and hit GO! it should pop up a window with bluetooth device that it found. You should be able to see a device called SumoRobot.
 
-![control_panel](/assets/img/sumorobot_interface_control_panel.png)
+[![control_panel](/assets/img/sumorobot_interface_control_panel.png)](https://sumo.robokoding.com)
 
 ## Blockly interface
 
