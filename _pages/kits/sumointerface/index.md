@@ -7,11 +7,13 @@ permalink: "/kits/sumorobot/sumointerface/"
 The link to the SumoInterface: [sumo.robokoding.com](http://sumo.robokoding.com).  
 The link to the source code of the SumoInterface: [https://github.com/robokoding/sumorobot-interface](https://github.com/robokoding/sumorobot-interface).
 
-## Control panel
+## Setup
 
 The SumoInterface works best on chrome or chromium as it uses Web Bluetooth which is still not fully supported across browsers. You might have to enable the bluetooth feature manually by going to [chrome://flags#enable-experimental-web-platform-features](chrome://flags#enable-experimental-web-platform-features) and [chrome://flags#enable-web-authentication-ble-support](chrome://flags#enable-web-authentication-ble-support). Finally restart your browser.
 
-Below the control panel of the SumoInterface. Turn on your SumoRobot and hit GO! it should pop up a window with bluetooth device that it found. You should be able to see a device called SumoRobot.
+## Control panel
+
+The control panel of the SumoInterface is where you can connect your SumoRobot with your browser. Turn on your SumoRobot and hit GO! it should pop up a window with bluetooth device that it found. You should be able to see a device called SumoRobot. Select the device and click Pair.
 
 [![control_panel](/assets/img/sumorobot_interface_control_panel.png)](https://sumo.robokoding.com)
 
@@ -54,7 +56,7 @@ The sonar with distance logic block is used for defining a distance the SumoRobo
 
 Hold the Alt key in combination with different keys to enable different feature in the interface:
 * alt + p = JavaScript mode (see further below)
-* alt + t = to open the calibration panel, calibrate the sensors and motors (see below)
+* alt + t = to open the calibration panel, change the SumoRobot name, calibrate the sensors and motors (see below)
 * alt + arrow keys = to move the SumoRobot around
 * alt + c = show control panel (to change the connected SumoRobot)
 * alt + f = disable or enable the LED feedback loop on the SumoRobot (allows to use LEDs in your code)
