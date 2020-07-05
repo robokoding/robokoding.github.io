@@ -6,11 +6,11 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 legal: RoboKoding LTD
 author:
-street_address: Kesa tee 5-1
-city: Pärnumaa
-state: Tori vald
-zip_code: 85009
-country: Estonia
+street_address:
+city: Berlin
+state:
+zip_code: 13187
+country: Germany
 phone: (+49) 176 97888820
 
 # menu/nav pages
