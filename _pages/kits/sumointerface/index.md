@@ -25,7 +25,7 @@ The control panel of the SumoInterface is where you can connect your SumoRobot w
 ![battery_full_charging](/assets/img/sumorobot/sumointerface/battery_full_charging.png)  
 Once the SumoInterface is connected to the SumoRobot you can see the battery icon (up right corner) red, orange or green. This shows the battery charge status of your SumoRobot. Red means that the battery is pretty empty and it should be charged as soon as possible. Your SumoRobot can randomly reset at times when it has low battery. When your SumoRobot is not connected or disconnects from the SumoInterface the battery icon will be with a red cross. Then you can try to reset your SumoRobot by pressing the RESET button underneath the SumoRobot next to he micro USB port. The lightning icon works on SumoBoard v0.4.0 and higher and indicates if the micro USB cable is connected to the SumoRobot to charge the battery.
 
-To program your SumoRobot move available blocks from the left toolbox (gray) to the right workspace (white) (see on the image below). You can delete code by dragging it to the trash bin or to the the left toolbox (gray). You can also observe the JavaScript code on the right that is created using the blocks. Once **Start** is pressed the JavaScirpt code on the right gets executed and the block highlight (bright) starts to work (see on the image below). The highlight shows how the SumoRobot is executing the code that you have made. The code is executed from top to bottom.
+To program your SumoRobot move available blocks from the left toolbox (gray) to the right workspace (white) (see on the image below). You can delete code by dragging it to the trash bin or to the the left toolbox (gray). You can also observe the MicroPython code on the right that is created using the blocks. Once **Start** is pressed the JavaScirpt code on the right gets executed and the block highlight (bright) starts to work (see on the image below). The highlight shows how the SumoRobot is executing the code that you have made. The code is executed from top to bottom.
 
 ![if_do](/assets/img/sumorobot/sumointerface/if_do.png)  
 The if_do command block is used to make conditions with opponent and/or line. This allows you to execute commands when a certain condition is true. For example when the SumoRobot sees something in front of it or it sees a line under it.
@@ -55,7 +55,7 @@ The sonar with distance logic block is used for defining a distance the SumoRobo
 ## Hotkeys
 
 Hold the Alt key in combination with different keys to enable different feature in the interface:
-* alt + p = JavaScript mode (see further below)
+* alt + p = MicroPython mode (see further below)
 * alt + t = to open the calibration panel, change the SumoRobot name, calibrate the sensors and motors (see below)
 * alt + arrow keys = to move the SumoRobot around
 * alt + c = show control panel (to change the connected SumoRobot)
@@ -71,35 +71,35 @@ For line calibration place the SumoRobot on the white surface of the SumoField (
 
 ![control_panel](/assets/img/sumorobot_interface_blockly.png)
 
-## JavaScript interface
+## MicroPython interface
 
 Press alt + p for entering the MicroPython mode. Here you can program the SumoRobot with using MicroPython code, a minified version of Python3. So you can import libraries, use variables, classes, definitions like usual to Python. The functions that are specific to the SumoRobot are explained below.
 
 **sumorobot.move(LEFT)**  
 This will move the SumoRobot to different directions, use LEFT, RIGHT, FORWARD, BACKWARD or SEARCH. SEARCH is a function that helps to find the other SumoRobot during the SumoMatch. It will rotate the SumoRobot for a while and then make it drive a bit forward. Try it out!
 
-**sumorobot.wait(1000)**  
+**sumorobot.sleep(1000)**  
 This will make the SumoRobot move in a direction for a certain time in case used together with multiple moves and waits. Use wait after each move. Then also adjust the delay value which is in milliseconds, a 1000 milliseconds is 1 second.
 
-**sumorobot.isSonar()**  
+**sumorobot.is_sonar()**  
 This will return if the SumoRobot sees something in front of it or not. It is mainly used to detect the other opponent SumoRobot on the SumoField, but it can be used also to see any other objects in front of the SumoRobot. The SumoRobot is set by default to see 40cm. Use this in combination with a if, else clause and move command.
 
-**sumorobot.isLine(LEFT)**  
+**sumorobot.is_line(LEFT)**  
 This will return if the SumoRobot sees a line under the LEFT or RIGHT sensor. Therefore you can use LEFT or RIGHT with this command. Use it together with a if, else cluase and a move command.
 
-**sumorobot.setServo(LEFT, 100)**  
+**sumorobot.set_servo(LEFT, 100)**  
 This will set the speed for a single servo motor. Use LEFT or RIGHT and values between -100 to 100. The negative values are for one direction and the positive values for the opposite direction.
 
-**sumorobot.setLed(STATUS, False)**  
+**sumorobot.set_led(STATUS, False)**  
 This will set the states of STAUTS, LEFT_LINE, RIGHT_LINE and OPPONENT LEDs. Use False or True. Currently the LEFT_LINE, RIGHT_LINE and OPPONENT LED will be overwritten by the feedback code, that shows if the SumoRobot sees a line or opponent.
 
-**sumorobot.getSonarDistance()**  
+**sumorobot.get_sonar_value()**  
 This will return the distance value of the distance sensor, that is in front of the SumoRobot, in centimeters. Use this to see objects even futher away or react to objects that are closer to the SumoRobot. Use it in a if, else clause to compare it with different values. The returned value will be 0 to 200.
 
-**sumorobot.getLine(LEFT)**  
+**sumorobot.get_line(LEFT)**  
 This will return the brightness value from the line sensors, will be a value between 0 to 4096. Use it in a if, else caluse to compare it with different values, it might be possible to detect different colors.
 
-**sumorobot.getBatteryVoltage(LEFT)**  
+**sumorobot.get_battery_level(LEFT)**  
 This will return the battery voltage of the SumoRobot, it will be a value between 3.0 to 4.2. Use it in a if, else caluse to compare it with different values, to detect how empty or full the battery is. This can be used for charging indication or other purposes.
 
 ![control_panel](/assets/img/sumorobot_python_code.png)
