@@ -13,10 +13,10 @@ Choose your operating system
 
 ## Download Driver
 Additionally on Windows and MAC OS you will need a driver software so your computer  
-can successfully communicate with the SumoRobot.
+can successfully communicate with the SumoRobot. Windows 10 should download this automatically.
 
-<a href="https://wiki.wemos.cc/_media/ch341ser_mac-1.4.zip" class="icon alt fa-apple"></a>
-<a href="https://wiki.wemos.cc/_media/file:ch341ser_win.zip" class="icon alt fa-windows"></a>
+<a href="https://github.com/wemos/ch340_driver/raw/master/CH341SER_MAC_1.5.ZIP" class="icon alt fa-apple"></a>
+<a href="https://github.com/wemos/ch340_driver/raw/master/CH341SER_WIN_3.5.ZIP" class="icon alt fa-windows"></a>
 
 ## Add permissions
 Additionally on Linux you need to add user permissions to communicate with the robot. Use the following line in the terminal, just type it in, press enter, enter the root password and press enter again. Then log out and in again or try a reboot.
