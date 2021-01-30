@@ -38,6 +38,10 @@
 
 			span {
 				font-family: _font(family-robot);
+
+				@include breakpoint(small) {
+					display: none;
+				}
 			}
 
 			strong {

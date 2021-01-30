@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SumoRobot Kit
-image: assets/img/v031/parts.jpg
+image: /assets/img/v04X/parts.jpg
 permalink: "/kits/sumorobot/"
 ---
 
@@ -14,9 +14,9 @@ SumoRobots are an amazing way to learn the basics of programming and robotics in
 
 The hardware and software of the SumoRobot kit are open-source, you can find everything on [GitHub](https://github.com/robokoding). You can pre-order the SumoRobot kit at [letscode@robokoding.com](#). Send your billing / shipping address, contact details, how many robots you want and we will send you back an invoice.
 
-Price: <span style="color:#28a745;">€55</span> <span style="color:#dc3545;">~~€62~~</span>  
+Price: €55  
 Recommended age: 10+
 
 [![I sell on tindie](https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png)](https://www.tindie.com/stores/robokoding/?ref=offsite_badges&utm_source=sellers_robokoding&utm_medium=badges&utm_campaign=badge_small)
 
-![kit](/assets/img/v031/parts.jpg)
+![kit](/assets/img/v04X/parts.jpg)
