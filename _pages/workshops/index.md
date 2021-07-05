@@ -11,7 +11,7 @@ permalink: "/workshops/"
 <section id="two" class="spotlights">
 	{% assign sorted_pages = site.pages | sort:"order" %}
 	{% for workshop in sorted_pages %}
-  {% if workshop.path contains "/workshops/" %}
+  	{% if workshop.path contains "/workshops/" %}
 	{% unless workshop.path contains "index" %}
 	<section>
 		<a href="{{ workshop.permalink | absolute_url }}" class="image">

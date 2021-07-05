@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SumoRobot Workshop
+title: SumoRobot Blockly Workshop
 permalink: "/workshops/sumorobot/"
 image: assets/img/sumorobot_workshop_1.jpg
 order: 1
