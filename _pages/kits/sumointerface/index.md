@@ -27,10 +27,10 @@ Once the SumoInterface is connected to the SumoRobot you can see the battery ico
 
 To program your SumoRobot move available blocks from the left toolbox (gray) to the right workspace (white) (see on the image below). You can delete code by dragging it to the trash bin or to the the left toolbox (gray). You can also observe the MicroPython code on the right that is created from the blocks. Once **Start** is pressed the MicroPython code on the right is sent to the SumoRobot and starts to execute. The code is executed from top to bottom. If you want continous execution, use the repeat loops (see below).
 
-![repeat_forever](/assets/img/sumorobot/sumointerface/repeat_forever.png)
+![repeat_forever](/assets/img/sumorobot/sumointerface/repeat_forever.png)  
 The repeat forever command block implements the most simple loop. It will just execute the code that is placed inside it forever. The only way to terminate this loop is by clicking the **Stop** button on the bottom of the SumoInterface.
 
-![repeat_while](/assets/img/sumorobot/sumointerface/repeat_while.png)
+![repeat_while](/assets/img/sumorobot/sumointerface/repeat_while.png)  
 The repeat while & until command block implements a logic loop that can be combined with sensor values: line or sonar. If you choose while, it will keep executing the commands inside the loop while the condition is met: robot sees a line or sees something in front of it (depends which logic sensor block you used).  If you choose until, then the loop runs until the condition is not met. Again you can use the line or sonar and the loop should finish once there is a line or there is a object in front of the robot.
 
 ![if_do](/assets/img/sumorobot/sumointerface/if_do.png)  
